@@ -1,10 +1,14 @@
+https://www.youtube.com/watch?v=3U9dyOWfC1g
+
 hbk-4g ac
 hbk-4p laser
 hbp-4sp mrm
 hbk-iic dakka
 hbk-iic-a laser
 hbk-iic-b missle
-vgl-3 3atm12
+vgl-3 strongest - atm
+vgl-a strongest - atm
+vl-5t recommend
 
 hbr-prime
 mad-3r
@@ -14,12 +18,8 @@ ntg-h ecm
 on1-iic-a
 qkd-iv4 strongest
 rfl-3n
-
-night gyr
-rifleman 3n
-vapor eagle
-vulcan
-warhammer 4l ecm
+whm-4l ecm
+whm-iic-2 lrm
 
 ann-2a
 ann-1x
@@ -37,7 +37,6 @@ mcii-b
 mad-4l stealth-armor
 mad-iic 9mpulse
 stk-3fb ecm
-whm-iic-2 lrm
 whm-iic-a dakka
 
 
