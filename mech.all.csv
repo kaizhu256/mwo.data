@@ -1,0 +1,696 @@
+sort-key	name	mech-tons	engine-default	left arm	left torso	center	right torso	right arm	head	jj	ecm	masc	engines	hardpoints	torso/arm	costs	mechfilter-faction	mechfilter-variant	mechfilter-family	mechfilter-type	default-engine	engine-speedtweak	engine-min	engine-max
+clan.adder.adr-a	adr-a	35	xl 210	1 m (20)	1 e	1 e	1 e	1 m (20)					xl 210	3 0 2	120 / 40 20 / 30	2,775 6,937,211	clan	168	adder	normal	210	0	210	210
+clan.adder.adr-b	adr-b	35	xl 210	1 b	1 e	1 e	1 e	1 e					xl 210	4 1 0	120 / 40 20 / 30	2,780 6,938,004	clan	260	adder	normal	210	0	210	210
+clan.adder.adr-d	adr-d	35	xl 210	1 e	1 m (20)	1 e	1 m (20)	1 b					xl 210	2 1 2	120 / 40 20 / 30	2,695 6,729,971	clan	169	adder	normal	210	0	210	210
+clan.adder.adr-prime	adr-prime	35	xl 210	1 e		1 e	1 ams	1 e					xl 210	3 0 0	120 / 40 20 / 30	2,810 7,024,974	clan	167	adder	normal	210	0	210	210
+clan.adder.adr-prime(c) champion	adr-prime(c) champion	35	xl 210	1 e	1 e	1 e	1 e	1 e					xl 210	5 0 0	120 / 40 20 / 30	n/a	clan	530	adder	champion	210	0	210	210
+clan.adder.cinder hero	cinder hero	35	xl 210	1 e	1 b	1 e	1 b	1 e					xl 210	3 2 0	120 / 40 20 / 30	n/a	clan	477	adder	hero	210	0	210	210
+clan.arcticcheetah.ach-a	ach-a	30	xl 240	1 e 1 m (10)			1 ams	1 e 1 m (10)		6			xl 240	2 0 2	110 / 30 30 / 30	2,785 6,957,336	clan	292	arcticcheetah	normal	240	0	240	240
+clan.arcticcheetah.ach-b	ach-b	30	xl 240	2 e				1 b 1 e		6			xl 240	3 1 0	110 / 30 30 / 30	2,770 6,920,636	clan	293	arcticcheetah	normal	240	0	240	240
+clan.arcticcheetah.ach-c	ach-c	30	xl 240	2 e	2 e		1 e	2 e		6			xl 240	7 0 0	110 / 30 30 / 30	3,050 7,617,336	clan	294	arcticcheetah	normal	240	0	240	240
+clan.arcticcheetah.ach-e	ach-e	30	xl 240	3 b	2 e		1 e	3 b		6			xl 240	3 6 0	110 / 30 30 / 30	n/a	clan	596	arcticcheetah	normal	240	0	240	240
+clan.arcticcheetah.ach-prime	ach-prime	30	xl 240	1 e 1 m (10)	1 ecm 1 e		1 e	1 e 1 m (10)		6			xl 240	4 0 2	110 / 30 30 / 30	3,095 7,737,456	clan	291	arcticcheetah	normal	240	0	240	240
+clan.arcticcheetah.ach-prime(c) champion	ach-prime(c) champion	30	xl 240	2 e	1 ecm 1 e		1 e	2 e		6			xl 240	6 0 0	110 / 30 30 / 30	3,870	clan	351	arcticcheetah	champion	240	0	240	240
+clan.arcticcheetah.shard hero	shard hero	30	xl 240	2 e	1 m (12)		2 b	2 e		6			xl 240	4 2 1	110 / 30 30 / 30	n/a	clan	587	arcticcheetah	hero	240	0	240	240
+clan.arcticwolf.acw-1	acw-1	40	xl 280	2 m (10x2)	1 ams 2 m (10x2)	1 m (10)	2 m (10x2)	2 m (10x2)					100 - 365 xl 280	0 0 9	130 / 30 25 / 30	n/a	clan	626	arcticwolf	normal	280	0	100	365
+clan.arcticwolf.acw-2	acw-2	40	xl 280	1 m (10)	1 ams 2 e	2 m (10x2)	2 m (10x2)	1 m (10)					100 - 365 xl 280	2 0 6	130 / 30 25 / 30	n/a	clan	627	arcticwolf	normal	280	0	100	365
+clan.arcticwolf.acw-a	acw-a	40	xl 240	1 e 1 m (10)	1 ams 1 m (10)		1 ecm 1 m (10)	1 e 1 m (10)					xl 240	2 0 4	130 / 30 25 / 30	n/a	clan	624	arcticwolf	normal	240	0	240	240
+clan.arcticwolf.acw-p	acw-p	40	xl 240	2 e	2 m (10x2)		2 e	2 e					xl 240	6 0 2	130 / 30 25 / 30	n/a	clan	625	arcticwolf	normal	240	0	240	240
+clan.arcticwolf.acw-prime	acw-prime	40	xl 240	1 m (10)	1 m (10)		1 m (10)	1 m (10)					xl 240	0 0 4	130 / 30 25 / 30	n/a	clan	623	arcticwolf	normal	240	0	240	240
+clan.arcticwolf.blood kit hero	blood kit hero	40	xl 280	2 e	1 ams 1 b	1 m (10)	1 b	2 e		4			100 - 365 xl 280	4 2 1	130 / 30 25 / 30	n/a	clan	628	arcticwolf	hero	280	0	100	365
+clan.blacklanner.bellonarius hero	bellonarius hero	55	xl 385	3 b	1 e 1 m (20)		1 m (20)	3 b	1 e				xl 385	2 6 2	125 / 0 25 / 30	n/a	clan	668	blacklanner	hero	385	0	385	385
+clan.blacklanner.bkl-a	bkl-a	55	xl 385	2 e	1 e		1 ams	1 e	1 ecm				xl 385	4 0 0	125 / 0 25 / 30	n/a	clan	664	blacklanner	normal	385	0	385	385
+clan.blacklanner.bkl-c	bkl-c	55	xl 385	6 e				1 m (20)					xl 385	6 0 1	125 / 0 25 / 30	n/a	clan	665	blacklanner	normal	385	0	385	385
+clan.blacklanner.bkl-d	bkl-d	55	xl 385	2 b 2 e	1 e 1 m (20)		1 m (20)	2 b 2 e					xl 385	5 4 2	125 / 0 25 / 30	n/a	clan	666	blacklanner	normal	385	0	385	385
+clan.blacklanner.bkl-e	bkl-e	55	xl 385	1 m (20)				3 e					xl 385	3 0 1	125 / 0 25 / 30	n/a	clan	667	blacklanner	normal	385	0	385	385
+clan.blacklanner.bkl-prime	bkl-prime	55	xl 385	2 e	1 m (20)		1 m (20)	1 e	1 ecm				xl 385	3 0 2	125 / 0 25 / 30	n/a	clan	663	blacklanner	normal	385	0	385	385
+clan.bloodasp.bas-a	bas-a	90	xl 360	2 e		1 ecm		2 e					xl 360	4 0 0	80 / 20 20 / 20	n/a	clan	706	bloodasp	normal	360	0	360	360
+clan.bloodasp.bas-b	bas-b	90	xl 360	1 m (20)	4 e	1 ecm	1 b	1 m (20)					xl 360	4 1 2	80 / 20 20 / 20	n/a	clan	707	bloodasp	normal	360	0	360	360
+clan.bloodasp.bas-c	bas-c	90	xl 360	1 b	1 b		1 b	1 e					xl 360	1 3 0	80 / 20 20 / 20	n/a	clan	708	bloodasp	normal	360	0	360	360
+clan.bloodasp.bas-d	bas-d	90	xl 360	2 e	1 b		3 b	2 e					xl 360	4 4 0	80 / 20 20 / 20	n/a	clan	709	bloodasp	normal	360	0	360	360
+clan.bloodasp.bas-prime	bas-prime	90	xl 360	3 e	1 b	1 m (15)	1 ams 1 b	3 e					xl 360	6 2 1	80 / 20 20 / 20	n/a	clan	705	bloodasp	normal	360	0	360	360
+clan.bloodasp.rancor hero	rancor hero	90	xl 360	2 e	1 e 1 m (20)		1 e 1 m (20)	2 e					xl 360	6 0 2	80 / 20 20 / 20	n/a	clan	710	bloodasp	hero	360	0	360	360
+clan.cougar.blood adder hero	blood adder hero	35	xl 175	1 m (20)	1 b		1 b	1 m (20)	1 ams				xl 175	0 2 2	120 / 40 20 / 30	n/a	clan	578	cougar	hero	175	0	175	175
+clan.cougar.cou-c	cou-c	35	xl 175	1 b				4 e	1 e				xl 175	5 1 0	120 / 40 20 / 30	n/a	clan	574	cougar	normal	175	0	175	175
+clan.cougar.cou-d	cou-d	35	xl 175	1 e	1 m (20)		1 m (20)	1 b					xl 175	1 1 2	120 / 40 20 / 30	n/a	clan	575	cougar	normal	175	0	175	175
+clan.cougar.cou-e	cou-e	35	xl 175	1 m (20)	1 e		1 e	1 m (20)	1 e				xl 175	3 0 2	120 / 40 20 / 30	n/a	clan	576	cougar	normal	175	0	175	175
+clan.cougar.cou-h	cou-h	35	xl 175	1 b				3 e	1 ecm				xl 175	3 1 0	120 / 40 20 / 30	n/a	clan	577	cougar	normal	175	0	175	175
+clan.cougar.cou-prime	cou-prime	35	xl 175	1 e	1 ams 1 m (20)		1 m (20)	1 e					xl 175	2 0 2	120 / 40 20 / 30	n/a	clan	573	cougar	normal	175	0	175	175
+clan.direwolf.dwf-a	dwf-a	100	xl 300	1 b	2 m (20x2)		1 ams	3 e					xl 300	3 1 2	60 / 30 20 / 30	6,860 17,149,906	clan	172	direwolf	normal	300	0	300	300
+clan.direwolf.dwf-b	dwf-b	100	xl 300	4 e	2 b	1 e	2 b	1 b					xl 300	5 5 0	60 / 30 20 / 30	7,140 17,838,493	clan	173	direwolf	normal	300	0	300	300
+clan.direwolf.dwf-prime	dwf-prime	100	xl 300	1 b 4 e	1 m (20)			1 b 4 e					xl 300	8 2 1	60 / 30 20 / 30	7,115 17,785,963	clan	171	direwolf	normal	300	0	300	300
+clan.direwolf.dwf-s	dwf-s	100	xl 300	1 e	1 b 2 e 1 m (20)	1 m (15)	1 b 2 e	1 b	1 e				xl 300	6 3 2	60 / 30 20 / 30	6,950 17,367,846	clan	261	direwolf	normal	300	0	300	300
+clan.direwolf.dwf-w	dwf-w	100	xl 300	1 b	1 m (20)	2 e	1 b	1 e	1 e				xl 300	4 2 1	60 / 30 20 / 30	7,015 17,536,496	clan	303	direwolf	normal	300	0	300	300
+clan.direwolf.dwf-w(c) champion	dwf-w(c) champion	100	xl 300	1 b 4 e	1 m (20)	2 e		1 b	1 e				xl 300	7 2 1	60 / 30 20 / 30	8,770	clan	355	direwolf	champion	300	0	300	300
+clan.direwolf.ultraviolet hero	ultraviolet hero	100	xl 300	2 b	2 e	1 m (15)	2 e	2 b					xl 300	4 4 1	60 / 30 20 / 30	n/a	clan	483	direwolf	hero	300	0	300	300
+clan.ebonjaguar.ebj-a	ebj-a	65	xl 325	1 b 2 e	3 e		1 b	1 b 2 e					xl 325	7 3 0	90 / 20 25 / 30	5,260 13,141,764	clan	281	ebonjaguar	normal	325	0	325	325
+clan.ebonjaguar.ebj-b	ebj-b	65	xl 325	2 e	2 e		1 e	2 e					xl 325	7 0 0	90 / 20 25 / 30	5,330 13,324,809	clan	282	ebonjaguar	normal	325	0	325	325
+clan.ebonjaguar.ebj-c	ebj-c	65	xl 325	1 b 1 m (20)	1 m (20)		1 m (20)	1 b 1 m (20)					xl 325	0 2 4	90 / 20 25 / 30	4,970 12,415,149	clan	283	ebonjaguar	normal	325	0	325	325
+clan.ebonjaguar.ebj-d	ebj-d	65	xl 325	1 b	1 e		2 e	1 b					xl 325	3 2 0	90 / 20 25 / 30	n/a	clan	600	ebonjaguar	normal	325	0	325	325
+clan.ebonjaguar.ebj-prime	ebj-prime	65	xl 325	1 b	1 e 1 m (20)		1 ams 1 m (20)	1 b					xl 325	1 2 2	90 / 20 25 / 30	4,930 12,321,989	clan	280	ebonjaguar	normal	325	0	325	325
+clan.ebonjaguar.ebj-prime(c) champion	ebj-prime(c) champion	65	xl 325	1 b	3 e		1 b	1 b					xl 325	3 3 0	90 / 20 25 / 30	n/a	clan	403	ebonjaguar	champion	325	0	325	325
+clan.ebonjaguar.esprit de corps hero	esprit de corps hero	65	xl 325	1 e 1 m (20)	1 b		1 e	1 e 1 m (20)					xl 325	3 1 2	90 / 20 25 / 30	n/a	clan	591	ebonjaguar	hero	325	0	325	325
+clan.executioner.cherbi hero	cherbi hero	95	xl 380	3 e	1 m (20)		1 m (20)	1 b		4			xl 380	3 1 2	80 / 30 25 / 30	n/a	clan	594	executioner	hero	380	0	380	380
+clan.executioner.exe-a	exe-a	95	xl 380	3 e			2 b	4 e		4			xl 380	7 2 0	80 / 30 25 / 30	7,170 17,924,467	clan	286	executioner	normal	380	0	380	380
+clan.executioner.exe-b	exe-b	95	xl 380	1 b			1 ams 1 e	1 e		4			xl 380	2 1 0	80 / 30 25 / 30	7,280 18,194,422	clan	287	executioner	normal	380	0	380	380
+clan.executioner.exe-c	exe-c	95	xl 380	1 m (20)	1 e			1 b		4			xl 380	1 1 1	80 / 30 25 / 30	7,200 17,999,162	clan	432	executioner	normal	380	0	380	380
+clan.executioner.exe-c(l) special	exe-c(l) special	95	xl 380	1 m (20)	1 e			1 b		4			xl 380	1 1 1	80 / 30 25 / 30	n/a	clan	343	executioner	special	380	0	380	380
+clan.executioner.exe-d	exe-d	95	xl 380	2 m (20x2)	1 e		2 e	7 e		4			xl 380	10 0 2	80 / 30 25 / 30	7,005 17,505,967	clan	288	executioner	normal	380	0	380	380
+clan.executioner.exe-e	exe-e	95	xl 380	2 m (20x2)			3 e	2 e		4			xl 380	5 0 2	80 / 30 25 / 30	n/a	clan	603	executioner	normal	380	0	380	380
+clan.executioner.exe-prime	exe-prime	95	xl 380	1 b			2 b	2 e		4			xl 380	2 3 0	80 / 30 25 / 30	7,070 17,674,467	clan	285	executioner	normal	380	0	380	380
+clan.gargoyle.gar-a	gar-a	80	xl 400	4 e				2 e					xl 400	6 0 0	90 / 20 20 / 30	6,240 15,593,762	clan	235	gargoyle	normal	400	0	400	400
+clan.gargoyle.gar-b	gar-b	80	xl 400	2 m (20x2)				1 b					xl 400	0 1 2	90 / 20 20 / 30	6,010 15,015,380	clan	304	gargoyle	normal	400	0	400	400
+clan.gargoyle.gar-c	gar-c	80	xl 400	1 b				6 e					xl 400	6 1 0	90 / 20 20 / 30	6,295 15,733,594	clan	262	gargoyle	normal	400	0	400	400
+clan.gargoyle.gar-d	gar-d	80	xl 400	2 e		2 e		2 e					xl 400	6 0 0	90 / 20 20 / 30	6,015 15,031,762	clan	236	gargoyle	normal	400	0	400	400
+clan.gargoyle.gar-e	gar-e	80	xl 400	2 e	2 e 1 m (20)		2 e	1 m (20)					xl 400	6 0 2	90 / 20 20 / 30	n/a	clan	602	gargoyle	normal	400	0	400	400
+clan.gargoyle.gar-prime	gar-prime	80	xl 400	1 b 1 m (20)	1 ams	1 e		1 b 1 m (20)					xl 400	1 2 2	90 / 20 20 / 30	6,070 15,167,822	clan	234	gargoyle	normal	400	0	400	400
+clan.gargoyle.kin wolf hero	kin wolf hero	80	xl 400	1 b	2 m (20x2)	1 e	1 m (20)	1 b					xl 400	1 2 3	90 / 20 20 / 30	n/a	clan	593	gargoyle	hero	400	0	400	400
+clan.hellbringer.hbr-a	hbr-a	65	xl 325	2 e	1 m (20)		2 b 1 m (20)	1 b	1 e				xl 325	3 3 2	90 / 20 20 / 30	5,265 13,151,413	clan	231	hellbringer	normal	325	0	325	325
+clan.hellbringer.hbr-b	hbr-b	65	xl 325	1 b	1 e		2 m (20x2)	1 b					xl 325	1 2 2	90 / 20 20 / 30	4,965 12,403,883	clan	232	hellbringer	normal	325	0	325	325
+clan.hellbringer.hbr-f	hbr-f	65	xl 325	1 b 1 e	1 e		1 e 1 m (20)	1 b 1 e					xl 325	4 2 1	90 / 20 20 / 30	n/a	clan	516	hellbringer	normal	325	0	325	325
+clan.hellbringer.hbr-f(c) champion	hbr-f(c) champion	65	xl 325	1 b 1 e	1 ecm 3 e		1 e 1 m (20)	1 b 1 e	1 e				xl 325	7 2 1	90 / 20 20 / 30	n/a	clan	532	hellbringer	champion	325	0	325	325
+clan.hellbringer.hbr-f(l) special	hbr-f(l) special	65	xl 325	1 b 1 e	1 e		1 e 1 m (20)	1 b 1 e					xl 325	4 2 1	90 / 20 20 / 30	n/a	clan	466	hellbringer	special	325	0	325	325
+clan.hellbringer.hbr-p	hbr-p	65	xl 325	2 e	1 m (20)		2 e	1 e					xl 325	5 0 1	90 / 20 20 / 30	n/a	clan	601	hellbringer	normal	325	0	325	325
+clan.hellbringer.hbr-prime	hbr-prime	65	xl 325	1 e	1 ecm 3 e		2 b 1 m (20)	1 e	1 ams				xl 325	5 2 1	90 / 20 20 / 30	5,480 13,695,385	clan	230	hellbringer	normal	325	0	325	325
+clan.hellbringer.virago hero	virago hero	65	xl 325	2 e	2 e		2 e	2 m (20x2)					xl 325	6 0 2	90 / 20 20 / 30	n/a	clan	592	hellbringer	hero	325	0	325	325
+clan.hellfire.hlf-1	hlf-1	60	std 240	3 e	1 e 1 m (20)		1 ams 2 m (20x2)	3 e					120 - 290 std 240	7 0 3	85 / 20 20 / 30	n/a	clan	719	hellfire	normal	240	0	120	290
+clan.hellfire.hlf-2	hlf-2	60	xl 300	3 e	1 e 1 m (20)		1 ams 1 m (20)	2 e					120 - 360 xl 300	6 0 2	85 / 20 20 / 30	n/a	clan	720	hellfire	normal	300	0	120	360
+clan.hellfire.hlf-a	hlf-a	60	xl 240	2 e	2 m (20x2)		1 ams 1 b 2 m (20x2)	2 e					120 - 290 xl 240	4 1 4	85 / 20 20 / 30	n/a	clan	721	hellfire	normal	240	0	120	290
+clan.hellfire.hlf-b	hlf-b	60	xl 300	2 e	1 e 1 m (20)		1 ams 2 m (20x2)	2 e					120 - 360 xl 300	5 0 3	85 / 20 20 / 30	n/a	clan	722	hellfire	normal	300	0	120	360
+clan.hellfire.hlf-c	hlf-c	60	xl 300	2 e	2 m (20x2)		1 ams 2 m (20x2)	2 e					120 - 360 xl 300	4 0 4	85 / 20 20 / 30	n/a	clan	723	hellfire	normal	300	0	120	360
+clan.hellfire.void hero	void hero	60	xl 300	1 b	2 e		1 ams 1 b 1 m (20)	3 e					120 - 360 xl 300	5 2 1	85 / 20 20 / 30	n/a	clan	724	hellfire	hero	300	0	120	360
+clan.highlanderiic.hgn-iic	hgn-iic	90	std 270	2 m (20x2)	1 ams 3 e		1 m (20)	1 b		3			180 - 325 std 270	3 1 3	85 / 20 20 / 30	3,870 9,670,316	clan	377	highlanderiic	normal	270	0	180	325
+clan.highlanderiic.hgn-iic-a	hgn-iic-a	90	std 270	1 m (20)	1 ams 2 e		2 m (20x2)	2 e		3			180 - 325 std 270	4 0 3	85 / 20 20 / 30	4,010 10,024,040	clan	378	highlanderiic	normal	270	0	180	325
+clan.highlanderiic.hgn-iic-b	hgn-iic-b	90	std 270	2 m (20x2)	1 ams 2 e		2 m (20x2)	1 b		3			180 - 325 std 270	2 1 4	85 / 20 20 / 30	3,790 9,468,100	clan	379	highlanderiic	normal	270	0	180	325
+clan.highlanderiic.hgn-iic-c	hgn-iic-c	90	xl 270	1 m (20)	1 ams 3 e		1 m (20)	2 b		3			180 - 325 xl 270	3 2 2	85 / 20 20 / 30	5,065 12,656,076	clan	380	highlanderiic	normal	270	0	180	325
+clan.highlanderiic.hgn-iic-c(c) champion	hgn-iic-c(c) champion	90	xl 325	1 m (20)	1 ams 3 e		1 m (20)	2 b		3			180 - 325 xl 325	3 2 2	85 / 20 20 / 30	6,335	clan	455	highlanderiic	champion	325	0	180	325
+clan.highlanderiic.keeper hero	keeper hero	90	xl 270	1 e 2 m (20x2)	1 ams 1 b		2 m (20x2)	1 b		3			180 - 325 xl 270	1 2 4	85 / 20 20 / 30	n/a	clan	607	highlanderiic	hero	270	0	180	325
+clan.hunchbackiic.deathwish hero	deathwish hero	50	xl 200	2 e	1 ams 1 e		1 b	2 e					100 - 275 xl 200	5 1 0	115 / 40 25 / 35	n/a	clan	605	hunchbackiic	hero	200	0	100	275
+clan.hunchbackiic.hbk-iic	hbk-iic	50	xl 200		1 ams 2 b	2 e	2 b			4			100 - 275 xl 200	2 4 0	95 / 40 25 / 35	3,005 7,511,790	clan	367	hunchbackiic	normal	200	0	100	275
+clan.hunchbackiic.hbk-iic(c) champion	hbk-iic(c) champion	50	xl 255		1 ams 2 b	2 e	2 b			4			100 - 275 xl 255	2 4 0	95 / 40 25 / 35	3,760	clan	453	hunchbackiic	champion	255	0	100	275
+clan.hunchbackiic.hbk-iic-a	hbk-iic-a	50	xl 200		1 ams 3 e	2 e	3 e			4			100 - 275 xl 200	8 0 0	80 / 40 20 / 35	2,780 6,947,852	clan	368	hunchbackiic	normal	200	0	100	275
+clan.hunchbackiic.hbk-iic-b	hbk-iic-b	50	xl 200		1 ams 2 m (20x2)	2 e	2 m (20x2)			4			100 - 275 xl 200	2 0 4	115 / 40 25 / 35	2,730 6,823,852	clan	369	hunchbackiic	normal	200	0	100	275
+clan.hunchbackiic.hbk-iic-c	hbk-iic-c	50	xl 200	1 e	1 ams 1 b	2 e	1 b	1 e		4			100 - 275 xl 200	4 2 0	115 / 40 25 / 35	2,880 7,199,820	clan	370	hunchbackiic	normal	200	0	100	275
+clan.huntsman.hmn-a	hmn-a	50	xl 250	1 e 1 m (10)				1 b 1 e		5			xl 250	2 1 1	95 / 35 20 / 20	3,780 9,445,923	clan	458	huntsman	normal	250	0	250	250
+clan.huntsman.hmn-b	hmn-b	50	xl 250	1 b			2 b	3 e		5			xl 250	3 3 0	95 / 35 20 / 20	3,960 9,890,523	clan	459	huntsman	normal	250	0	250	250
+clan.huntsman.hmn-c	hmn-c	50	xl 250	1 b	2 e 1 m (10)		1 e 1 m (10)	1 m (10)		5			xl 250	3 1 3	95 / 35 20 / 20	3,980 9,939,183	clan	460	huntsman	normal	250	0	250	250
+clan.huntsman.hmn-p	hmn-p	50	xl 250	2 m (10x2)	1 b		2 e	2 m (10x2)		5			xl 250	2 1 4	95 / 35 20 / 20	3,950 9,867,123	clan	461	huntsman	normal	250	0	250	250
+clan.huntsman.hmn-prime	hmn-prime	50	xl 250	2 e 1 m (10)	1 ams 2 e		1 m (10)	1 b 2 e		5			xl 250	6 1 2	95 / 35 20 / 20	4,185 10,452,733	clan	457	huntsman	normal	250	0	250	250
+clan.huntsman.pakhet hero	pakhet hero	50	xl 250	1 e	2 m (10x2)		1 ams 2 m (10x2)	2 e		5			xl 250	3 0 4	95 / 35 20 / 20	4,690	clan	462	huntsman	hero	250	0	250	250
+clan.iceferret.ifr-a	ifr-a	45	xl 360	1 b		1 e		1 ams 1 e					xl 360	2 1 0	135 / 25 20 / 25	4,085 10,208,350	clan	220	iceferret	normal	360	0	360	360
+clan.iceferret.ifr-b	ifr-b	45	xl 360	1 e 1 m (20)		1 e		1 m (20)					xl 360	2 0 2	135 / 25 20 / 25	4,060 10,149,049	clan	305	iceferret	normal	360	0	360	360
+clan.iceferret.ifr-c	ifr-c	45	xl 360	1 m (20)	1 m (20)	1 e		1 m (20)					xl 360	1 0 3	135 / 25 20 / 25	4,030 10,065,910	clan	221	iceferret	normal	360	0	360	360
+clan.iceferret.ifr-d	ifr-d	45	xl 360	1 ams 1 e		1 e		2 e					xl 360	4 0 0	135 / 25 20 / 25	4,030 10,065,049	clan	263	iceferret	normal	360	0	360	360
+clan.iceferret.ifr-p	ifr-p	45	xl 360	1 e 1 m (20)		1 ecm	1 e	2 e					xl 360	4 0 1	135 / 25 20 / 25	n/a	clan	597	iceferret	normal	360	0	360	360
+clan.iceferret.ifr-prime	ifr-prime	45	xl 360	2 e				1 m (20)					xl 360	2 0 1	135 / 25 20 / 25	4,200 10,489,550	clan	219	iceferret	normal	360	0	360	360
+clan.iceferret.rainbow crow hero	rainbow crow hero	45	xl 360	2 e		1 ecm	1 m (20)	1 b					xl 360	2 1 1	135 / 25 20 / 25	n/a	clan	588	iceferret	hero	360	0	360	360
+clan.incubus.inc-1	inc-1	30	xl 270		2 b 1 e	1 ams	2 b 1 e	2 e					100 - 285 xl 270	4 4 0	110 / 30 30 / 30	n/a	clan	733	incubus	normal	270	0	100	285
+clan.incubus.inc-2	inc-2	30	xl 270		3 b 1 e	1 ams	2 b 1 e	1 e					100 - 285 xl 270	3 5 0	110 / 30 30 / 30	n/a	clan	734	incubus	normal	270	0	100	285
+clan.incubus.inc-3	inc-3	30	xl 270		2 b 1 e	1 ams	2 b 1 e	2 m (20x2)					100 - 285 xl 270	2 4 2	110 / 30 30 / 30	n/a	clan	735	incubus	normal	270	0	100	285
+clan.incubus.inc-4	inc-4	30	xl 270		3 e	1 ams	3 e	1 e					100 - 285 xl 270	7 0 0	110 / 30 30 / 30	n/a	clan	736	incubus	normal	270	0	100	285
+clan.incubus.inc-5	inc-5	30	xl 270		2 b 2 e	1 ams	2 b 1 e	1 m (20)					100 - 285 xl 270	3 4 1	110 / 30 30 / 30	n/a	clan	737	incubus	normal	270	0	100	285
+clan.incubus.sabre hero	sabre hero	30	xl 270		1 ams 1 b 1 e	1 m (15)	2 b 1 e	2 m (20x2)					100 - 285 xl 270	2 3 3	110 / 30 30 / 30	n/a	clan	738	incubus	hero	270	0	100	285
+clan.jenneriic.fury hero	fury hero	35	xl 280	3 b	1 ams	2 e	1 ams	3 b		7			100 - 315 xl 280	2 6 0	100 / 0 20 / 30	n/a	clan	604	jenneriic	hero	280	0	100	315
+clan.jenneriic.jr7-iic	jr7-iic	35	xl 315	2 m (12x2)	1 ams	2 m (15, 10)		2 m (12x2)		7			100 - 315 xl 315	0 0 6	100 / 0 20 / 30	2,770 6,916,093	clan	362	jenneriic	normal	315	0	100	315
+clan.jenneriic.jr7-iic(c) champion	jr7-iic(c) champion	35	xl 295	2 m (12x2)	1 ams	2 m (15, 10)		2 m (12x2)		7			100 - 315 xl 295	0 0 6	100 / 0 20 / 30	3,465	clan	452	jenneriic	champion	295	0	100	315
+clan.jenneriic.jr7-iic-2	jr7-iic-2	35	xl 315	2 e	1 ams	1 m (15)		2 e		10			100 - 315 xl 315	4 0 1	100 / 0 20 / 30	2,770 6,918,153	clan	363	jenneriic	normal	315	0	100	315
+clan.jenneriic.jr7-iic-3	jr7-iic-3	35	xl 315	2 e	1 ams	2 m (15, 10)		2 e		7			100 - 315 xl 315	4 0 2	100 / 0 20 / 30	2,665 6,660,093	clan	364	jenneriic	normal	315	0	100	315
+clan.jenneriic.jr7-iic-a	jr7-iic-a	35	xl 315	3 e	1 ams			3 e		7			100 - 315 xl 315	6 0 0	100 / 0 20 / 30	2,610 6,524,093	clan	365	jenneriic	normal	315	0	100	315
+clan.kitfox.kfx-c	kfx-c	30	xl 180	2 b 2 e				1 ecm 3 ams 1 e					xl 180	3 2 0	120 / 40 20 / 30	2,725 6,810,335	clan	264	kitfox	normal	180	0	180	180
+clan.kitfox.kfx-d	kfx-d	30	xl 180	2 m (20, 15)				2 m (20, 15)					xl 180	0 0 4	120 / 40 20 / 30	2,380 5,949,429	clan	176	kitfox	normal	180	0	180	180
+clan.kitfox.kfx-g	kfx-g	30	xl 180	1 ecm	1 m (15)		1 m (20)	2 e					xl 180	2 0 2	120 / 40 20 / 30	n/a	clan	672	kitfox	normal	180	0	180	180
+clan.kitfox.kfx-g(l) special	kfx-g(l) special	30	xl 180	1 ecm	1 m (15)		1 m (20)	2 e					xl 180	2 0 2	120 / 40 20 / 30	n/a	clan	646	kitfox	special	180	0	180	180
+clan.kitfox.kfx-prime	kfx-prime	30	xl 180	2 e				1 b 1 m (20)					xl 180	2 1 1	120 / 40 20 / 30	2,405 6,008,129	clan	175	kitfox	normal	180	0	180	180
+clan.kitfox.kfx-s	kfx-s	30	xl 180	1 e 1 m (20)	1 b		1 b	2 e					xl 180	3 2 1	120 / 40 20 / 30	2,340 5,848,129	clan	177	kitfox	normal	180	0	180	180
+clan.kitfox.purifier hero	purifier hero	30	xl 180	1 b	2 e		2 e	1 b					xl 180	4 2 0	120 / 40 20 / 30	n/a	clan	476	kitfox	hero	180	0	180	180
+clan.kodiak.kdk-1	kdk-1	100	xl 400	4 e	2 m (20x2)	1 e	1 ams 1 b	4 e					200 - 400 xl 400	9 1 2	70 / 30 20 / 30	6,410 16,015,225	clan	406	kodiak	normal	400	0	200	400
+clan.kodiak.kdk-2	kdk-2	100	xl 400	2 e	1 m (20)	2 e	1 ams 1 b	2 e		4			200 - 400 xl 400	6 1 1	70 / 30 20 / 30	6,280 15,689,225	clan	407	kodiak	normal	400	0	200	400
+clan.kodiak.kdk-3	kdk-3	100	xl 400	2 e	2 b		1 ams 2 b	2 e					200 - 400 xl 400	4 4 0	60 / 30 16 / 30	6,420 16,039,165	clan	408	kodiak	normal	400	0	200	400
+clan.kodiak.kdk-3(c) champion	kdk-3(c) champion	100	xl 375	2 e	2 b		1 ams 2 b	2 e					200 - 400 xl 375	4 4 0	60 / 30 16 / 30	n/a	clan	533	kodiak	champion	375	0	200	400
+clan.kodiak.kdk-4	kdk-4	100	xl 400	2 e 1 m (20)			1 ams 2 b	2 e 1 m (20)					200 - 400 xl 400	4 2 2	70 / 30 20 / 30	6,440 16,095,705	clan	409	kodiak	normal	400	0	200	400
+clan.kodiak.kdk-5	kdk-5	100	xl 400	5 e		1 e	1 ams 1 b	5 e					200 - 400 xl 400	11 1 0	70 / 30 20 / 30	6,270 15,663,255	clan	410	kodiak	normal	400	0	200	400
+clan.kodiak.spirit bear hero	spirit bear hero	100	xl 400	1 e	3 m (20x3)	1 m (15)	1 ams 1 b	1 e					200 - 400 xl 400	2 1 4	70 / 30 20 / 30	7,500	clan	411	kodiak	hero	400	0	200	400
+clan.linebacker.lbk-a	lbk-a	65	xl 390	1 e	1 m (20)		2 e 1 m (20)	1 e					xl 390	4 0 2	90 / 20 25 / 30	5,395	clan	471	linebacker	normal	390	0	390	390
+clan.linebacker.lbk-b	lbk-b	65	xl 390	2 e	1 ams 1 e		1 b	1 e					xl 390	4 1 0	90 / 20 25 / 30	5,200	clan	472	linebacker	normal	390	0	390	390
+clan.linebacker.lbk-c	lbk-c	65	xl 390	2 e	3 e		2 b 1 e	1 b					xl 390	6 3 0	90 / 20 25 / 30	5,340	clan	473	linebacker	normal	390	0	390	390
+clan.linebacker.lbk-d	lbk-d	65	xl 390	2 m (20x2)	2 e		1 e	2 m (20x2)					xl 390	3 0 4	90 / 20 25 / 30	5,330	clan	474	linebacker	normal	390	0	390	390
+clan.linebacker.lbk-h	lbk-h	65	xl 390	1 e	1 e	1 e	1 e	1 e					xl 390	5 0 0	90 / 20 25 / 30	n/a	clan	673	linebacker	normal	390	0	390	390
+clan.linebacker.lbk-h(l) special	lbk-h(l) special	65	xl 390	1 e	1 e	1 e	1 e	1 e					xl 390	5 0 0	90 / 20 25 / 30	n/a	clan	647	linebacker	special	390	0	390	390
+clan.linebacker.lbk-prime	lbk-prime	65	xl 390	1 e	1 m (20)		1 e 1 m (20)	1 e					xl 390	3 0 2	90 / 20 25 / 30	5,365	clan	470	linebacker	normal	390	0	390	390
+clan.linebacker.redline hero	redline hero	65	xl 390	1 b	2 e		3 e	1 m (20)					xl 390	5 1 1	90 / 20 25 / 30	6,095	clan	475	linebacker	hero	390	0	390	390
+clan.madcatmkii.deathstrike hero	deathstrike hero	90	xl 360	1 b 1 e	2 e	1 ams	2 e	1 b 1 e		3			180 - 400 xl 360	6 2 0	85 / 0 20 / 30	n/a	clan	585	madcatmkii	hero	360	0	180	400
+clan.madcatmkii.mcii-1	mcii-1	90	xl 360	1 b	2 e 1 m (20)	1 ams	2 e 1 m (20)	1 b		3			180 - 400 xl 360	4 2 2	85 / 0 20 / 30	n/a	clan	580	madcatmkii	normal	360	0	180	400
+clan.madcatmkii.mcii-2	mcii-2	90	xl 360	1 b	1 e 2 m (20x2)	1 ams	1 e 2 m (20x2)	1 b		3			180 - 400 xl 360	2 2 4	85 / 0 20 / 30	n/a	clan	581	madcatmkii	normal	360	0	180	400
+clan.madcatmkii.mcii-4	mcii-4	90	xl 360	2 e	2 m (20x2)	1 ams	2 m (20x2)	2 e		4			180 - 400 xl 360	4 0 4	85 / 20 20 / 30	n/a	clan	582	madcatmkii	normal	360	0	180	400
+clan.madcatmkii.mcii-a	mcii-a	90	xl 360	2 e	1 ams 1 e 1 m (20)	1 b	1 b 1 m (20)	2 e		3			180 - 400 xl 360	5 2 2	85 / 20 20 / 30	n/a	clan	583	madcatmkii	normal	360	0	180	400
+clan.madcatmkii.mcii-b	mcii-b	90	xl 360	2 b	1 ams 1 e	2 m (15, 10)	1 e	2 b		3			180 - 400 xl 360	2 4 2	85 / 20 20 / 30	n/a	clan	584	madcatmkii	normal	360	0	180	400
+clan.maddog.bandit hero	bandit hero	60	xl 300	2 e	1 b		1 b	2 e					xl 300	4 2 0	95 / 30 20 / 30	n/a	clan	590	maddog	hero	300	0	300	300
+clan.maddog.mdd-a	mdd-a	60	xl 300	1 b	3 m (20, 10x2)		3 m (20, 10x2)	1 e					xl 300	1 1 6	95 / 30 20 / 30	4,755 11,886,819	clan	213	maddog	normal	300	0	300	300
+clan.maddog.mdd-b	mdd-b	60	xl 300	2 e	1 m (20)		2 m (20, 10)	3 e					xl 300	5 0 3	95 / 30 20 / 30	4,820 12,042,879	clan	214	maddog	normal	300	0	300	300
+clan.maddog.mdd-c	mdd-c	60	xl 300	1 b				1 b					xl 300	0 2 0	95 / 30 20 / 30	4,390 10,968,755	clan	265	maddog	normal	300	0	300	300
+clan.maddog.mdd-c(c) champion	mdd-c(c) champion	60	xl 300	1 b				1 b					xl 300	0 2 0	95 / 30 20 / 30	n/a	clan	703	maddog	champion	300	0	300	300
+clan.maddog.mdd-h	mdd-h	60	xl 300	3 e	1 m (20)		1 m (20)	1 e					xl 300	4 0 2	95 / 30 20 / 30	n/a	clan	599	maddog	normal	300	0	300	300
+clan.maddog.mdd-prime	mdd-prime	60	xl 300	2 e	1 ams 1 m (20)		1 m (20)	2 e					xl 300	4 0 2	95 / 30 20 / 30	4,680 11,688,879	clan	212	maddog	normal	300	0	300	300
+clan.maddog.revenant hero	revenant hero	60	xl 300	1 e	2 m (20, 10)	2 e	2 m (20, 10)	1 e					xl 300	4 0 4	95 / 30 20 / 30	n/a	clan	696	maddog	hero	300	0	300	300
+clan.marauderiic.mad-iic	mad-iic	85	std 340	2 e	1 ams 2 e	2 e	1 e	2 e					170 - 400 std 340	9 0 0	70 / 20 20 / 30	n/a	clan	493	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-2	mad-iic-2	85	std 340	3 e	1 ams	2 e		2 e		4			170 - 400 std 340	7 0 0	70 / 20 20 / 30	n/a	clan	780	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-8	mad-iic-8	85	std 340	2 e	1 ams 2 e 1 m (20)	1 e	1 e	1 e					170 - 400 std 340	7 0 1	70 / 20 20 / 30	n/a	clan	494	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-a	mad-iic-a	85	std 340	2 e	1 ams		3 b	2 e					170 - 400 std 340	4 3 0	70 / 20 20 / 30	n/a	clan	495	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-b	mad-iic-b	85	xl 340	2 e	1 ams 2 m (20x2)		1 e	2 e		4			170 - 400 xl 340	5 0 2	70 / 20 20 / 30	n/a	clan	496	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-c	mad-iic-c	85	xl 340	3 e	1 ams		2 b	2 e		4			170 - 400 xl 340	5 2 0	70 / 20 20 / 30	n/a	clan	497	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-d	mad-iic-d	85	xl 255	1 b 1 m (20)	1 ams	1 ecm	1 e	1 b 1 m (20)	1 e				170 - 340 xl 255	2 2 2	70 / 20 20 / 30	n/a	clan	498	marauderiic	normal	255	0	170	340
+clan.marauderiic.scorch hero	scorch hero	85	xl 340	1 b 1 e	1 ams 2 m (20x2)		2 m (20x2)	1 b 1 e					170 - 400 xl 340	2 2 4	70 / 20 20 / 30	n/a	clan	499	marauderiic	hero	340	0	170	400
+clan.mistlynx.ebon dragoon hero	ebon dragoon hero	25	xl 175	2 m (12, 10)			2 e	2 e		6			xl 175	4 0 2	120 / 20 30 / 30	n/a	clan	586	mistlynx	hero	175	0	175	175
+clan.mistlynx.mlx-a	mlx-a	25	xl 175	2 ams 1 e				2 b 1 e		6			xl 175	2 2 0	120 / 20 30 / 30	2,325 5,810,750	clan	266	mistlynx	normal	175	0	175	175
+clan.mistlynx.mlx-b	mlx-b	25	xl 175	2 e				1 e 2 m (10x2)		6			xl 175	3 0 2	120 / 20 30 / 30	2,390 5,964,046	clan	226	mistlynx	normal	175	0	175	175
+clan.mistlynx.mlx-c	mlx-c	25	xl 175	1 ecm 1 ams				2 e		6			xl 175	2 0 0	120 / 20 30 / 30	2,565 6,409,546	clan	227	mistlynx	normal	175	0	175	175
+clan.mistlynx.mlx-d	mlx-d	25	xl 175	1 b				2 e		6			xl 175	2 1 0	120 / 20 30 / 30	2,270 5,671,096	clan	306	mistlynx	normal	175	0	175	175
+clan.mistlynx.mlx-g	mlx-g	25	xl 175	4 b 1 e			2 e	4 b 1 e		6			xl 175	4 8 0	120 / 20 30 / 30	n/a	clan	595	mistlynx	normal	175	0	175	175
+clan.mistlynx.mlx-prime	mlx-prime	25	xl 175	1 m (10)				2 b 1 m (10)		6			xl 175	0 2 2	120 / 20 30 / 30	2,295 5,732,606	clan	225	mistlynx	normal	175	0	175	175
+clan.mistlynx.mlx-prime(c) champion	mlx-prime(c) champion	25	xl 175	2 e				2 e		6			xl 175	4 0 0	120 / 20 30 / 30	2,870	clan	401	mistlynx	champion	175	0	175	175
+clan.nightgyr.jade kite hero	jade kite hero	75	xl 300	2 b	2 b		2 m (20, 15)	2 e		4			xl 300	2 4 2	70 / 20 15 / 30	7,035	clan	447	nightgyr	hero	300	0	300	300
+clan.nightgyr.ntg-a	ntg-a	75	xl 300	3 e	1 m (20)		1 m (20)	1 b	1 e	4			xl 300	4 1 2	70 / 20 15 / 30	5,660 14,144,563	clan	443	nightgyr	normal	300	0	300	300
+clan.nightgyr.ntg-b	ntg-b	75	xl 300	1 b	1 b		1 b	1 b	1 ams	4			xl 300	0 4 0	70 / 20 15 / 30	5,480 13,695,908	clan	444	nightgyr	normal	300	0	300	300
+clan.nightgyr.ntg-c	ntg-c	75	xl 300	3 b	1 e			2 e	1 e	4			xl 300	4 3 0	70 / 20 15 / 30	5,540 13,846,708	clan	445	nightgyr	normal	300	0	300	300
+clan.nightgyr.ntg-d	ntg-d	75	xl 300	1 m (20)	1 m (20)	1 e	1 m (20)	1 m (20)	1 e	4			xl 300	2 0 4	65 / 20 15 / 30	6,030 15,063,328	clan	446	nightgyr	normal	300	0	300	300
+clan.nightgyr.ntg-h	ntg-h	75	xl 300	1 b	1 e		1 ecm	1 b	1 e	4			xl 300	2 2 0	70 / 20 15 / 30	n/a	clan	779	nightgyr	normal	300	0	300	300
+clan.nightgyr.ntg-prime	ntg-prime	75	xl 300	2 e	1 e		1 e	1 b	1 e	4			xl 300	5 1 0	70 / 20 15 / 30	5,665 14,152,608	clan	442	nightgyr	normal	300	0	300	300
+clan.nova.breaker hero	breaker hero	50	xl 250	2 m (20x2)	2 e		2 b	3 e		5			xl 250	5 2 2	100 / 35 20 / 30	n/a	clan	478	nova	hero	250	0	250	250
+clan.nova.nva-a	nva-a	50	xl 250	1 e	1 ams 1 e		1 ams	1 e		5			xl 250	3 0 0	100 / 35 20 / 30	3,890 9,722,437	clan	267	nova	normal	250	0	250	250
+clan.nova.nva-b	nva-b	50	xl 250	1 e	2 b		1 e	1 b		5			xl 250	2 3 0	100 / 35 20 / 30	3,525 8,803,938	clan	180	nova	normal	250	0	250	250
+clan.nova.nva-c	nva-c	50	xl 250	1 b	1 m (20)		1 e			5			xl 250	1 1 1	100 / 35 20 / 30	3,520 8,799,437	clan	307	nova	normal	250	0	250	250
+clan.nova.nva-d	nva-d	50	xl 250	1 b				1 m (20)		5			xl 250	0 1 1	100 / 35 20 / 30	3,640 9,090,617	clan	431	nova	normal	250	0	250	250
+clan.nova.nva-d(l) special	nva-d(l) special	50	xl 250	1 b				1 m (20)		5			xl 250	0 1 1	100 / 35 20 / 30	n/a	clan	342	nova	special	250	0	250	250
+clan.nova.nva-prime	nva-prime	50	xl 250	6 e				6 e		5			xl 250	12 0 0	100 / 35 20 / 30	3,990 9,968,438	clan	179	nova	normal	250	0	250	250
+clan.nova.nva-s	nva-s	50	xl 250	3 e	2 b	1 ams	2 b	3 e		5			xl 250	6 4 0	100 / 35 20 / 30	3,750 9,363,437	clan	181	nova	normal	250	0	250	250
+clan.nova.nva-s(c) champion	nva-s(c) champion	50	xl 250	3 e	1 ams 1 e	1 ams	1 ams	3 e		5			xl 250	7 0 0	100 / 35 20 / 30	n/a	clan	531	nova	champion	250	0	250	250
+clan.novacat.cobra cat hero	cobra cat hero	70	xl 280	1 e 2 m (20, 15)	1 e		1 e	1 e 2 m (20, 15)					xl 280	4 0 4	100 / 20 25 / 25	n/a	clan	635	novacat	hero	280	0	280	280
+clan.novacat.nct-a	nct-a	70	xl 280	2 e				2 e					xl 280	4 0 0	100 / 20 25 / 25	n/a	clan	631	novacat	normal	280	0	280	280
+clan.novacat.nct-b	nct-b	70	xl 280	3 m (20x2, 15)	1 e		1 e	3 m (20x2, 15)					xl 280	2 0 6	100 / 20 25 / 25	n/a	clan	632	novacat	normal	280	0	280	280
+clan.novacat.nct-c	nct-c	70	xl 280	2 e				3 b					xl 280	2 3 0	100 / 20 25 / 25	n/a	clan	633	novacat	normal	280	0	280	280
+clan.novacat.nct-d	nct-d	70	xl 280	1 b 1 e				2 e					xl 280	3 1 0	100 / 20 25 / 25	n/a	clan	634	novacat	normal	280	0	280	280
+clan.novacat.nct-prime	nct-prime	70	xl 280	3 e			1 ams	2 e					xl 280	5 0 0	100 / 20 25 / 25	n/a	clan	630	novacat	normal	280	0	280	280
+clan.orioniic.on1-iic	on1-iic	75	std 300	1 e 1 m (20)	1 ams 2 m (20x2)		1 b	2 e					150 - 360 std 300	3 1 3	85 / 20 20 / 30	3,080 7,694,819	clan	372	orioniic	normal	300	0	150	360
+clan.orioniic.on1-iic-a	on1-iic-a	75	std 300	1 e 2 m (20x2)	1 ams 2 m (20x2)		1 b	1 e					150 - 360 std 300	2 1 4	85 / 20 20 / 30	3,140 7,849,879	clan	373	orioniic	normal	300	0	150	360
+clan.orioniic.on1-iic-a(c) champion	on1-iic-a(c) champion	75	xl 360	1 e 2 m (20x2)	1 ams 2 m (20x2)		1 b	1 e					150 - 360 xl 360	2 1 4	85 / 20 20 / 30	3,925	clan	454	orioniic	champion	360	0	150	360
+clan.orioniic.on1-iic-b	on1-iic-b	75	xl 300	2 e 1 m (20)	1 ams 1 m (20)		1 b	2 e					150 - 360 xl 300	4 1 2	85 / 20 20 / 30	4,510 11,265,639	clan	374	orioniic	normal	300	0	150	360
+clan.orioniic.on1-iic-c	on1-iic-c	75	xl 300	1 e 1 m (20)	1 ams 2 m (20x2)		2 b	1 e					150 - 360 xl 300	2 2 3	85 / 20 20 / 30	4,515 11,286,759	clan	375	orioniic	normal	300	0	150	360
+clan.orioniic.skll hero	skll hero	75	std 300	1 e	1 ams 1 e 1 m (20)		1 b	2 e					150 - 360 std 300	4 1 1	85 / 20 20 / 30	n/a	clan	606	orioniic	hero	300	0	150	360
+clan.piranha.cipher hero	cipher hero	20	xl 180	1 e	1 ams 3 b 3 e	1 e	3 b 3 e	1 e					100 - 180 xl 180	9 6 0	100 / 30 20 / 30	n/a	clan	661	piranha	hero	180	0	100	180
+clan.piranha.pir-1	pir-1	20	xl 180	1 e	1 ams 6 b	1 e	6 b	1 e					100 - 180 xl 180	3 12 0	100 / 30 20 / 30	n/a	clan	656	piranha	normal	180	0	100	180
+clan.piranha.pir-2	pir-2	20	xl 180	1 e	1 ams 6 e	1 e	6 e	1 e					100 - 180 xl 180	15 0 0	100 / 30 20 / 30	n/a	clan	657	piranha	normal	180	0	100	180
+clan.piranha.pir-3	pir-3	20	xl 180	2 e	1 ams 5 e		5 e	2 e					100 - 180 xl 180	14 0 0	110 / 30 20 / 30	n/a	clan	658	piranha	normal	180	0	100	180
+clan.piranha.pir-a	pir-a	20	xl 180	1 e	2 ams 4 b	1 e	2 ams 4 b	1 e					100 - 180 xl 180	3 8 0	120 / 30 25 / 30	n/a	clan	659	piranha	normal	180	0	100	180
+clan.piranha.pir-b	pir-b	20	xl 180	2 e	1 ams 2 b	2 e	2 b	2 e					100 - 180 xl 180	6 4 0	120 / 30 25 / 30	n/a	clan	660	piranha	normal	180	0	100	180
+clan.riflemaniic.chironex hero	chironex hero	65	std 195	1 b 1 m (20)	1 e	1 ams	1 e	1 b 1 m (20)	1 e	3			130 - 235 std 195	3 2 2	100 / 0 20 / 50	n/a	clan	803	riflemaniic	hero	195	0	130	235
+clan.riflemaniic.rfl-iic	rfl-iic	65	std 195	3 e		1 ams		3 e	1 e	3			130 - 235 std 195	7 0 0	100 / 0 20 / 50	n/a	clan	798	riflemaniic	normal	195	0	130	235
+clan.riflemaniic.rfl-iic-2	rfl-iic-2	65	std 260	3 b		1 ams		3 b		3			130 - 315 std 260	0 6 0	100 / 0 20 / 50	n/a	clan	799	riflemaniic	normal	260	0	130	315
+clan.riflemaniic.rfl-iic-3	rfl-iic-3	65	std 195	2 b 1 e		1 ams		2 b 1 e		3			130 - 235 std 195	2 4 0	100 / 0 20 / 50	n/a	clan	800	riflemaniic	normal	195	0	130	235
+clan.riflemaniic.rfl-iic-4	rfl-iic-4	65	std 195	1 e 2 m (20x2)		1 ams		1 e 2 m (20x2)		3			130 - 235 std 195	2 0 4	100 / 0 20 / 50	n/a	clan	801	riflemaniic	normal	195	0	130	235
+clan.riflemaniic.rfl-iic-a	rfl-iic-a	65	xl 260	1 b 1 e	1 e	1 ams	1 e	1 b 1 e					130 - 315 xl 260	4 2 0	100 / 0 20 / 50	n/a	clan	802	riflemaniic	normal	260	0	130	315
+clan.shadowcat.mishipeshu hero	mishipeshu hero	45	xl 270	1 e			1 m (20)	1 b 1 e		6			xl 270	2 1 1	135 / 20 20 / 40	n/a	clan	589	shadowcat	hero	270	0	270	270
+clan.shadowcat.shc-a	shc-a	45	xl 270	1 e			1 m (20)	1 e		6			xl 270	2 0 1	135 / 20 20 / 40	3,940 9,838,177	clan	297	shadowcat	normal	270	0	270	270
+clan.shadowcat.shc-b	shc-b	45	xl 270	1 e 1 m (20)	1 ecm			1 e 1 m (20)		6			xl 270	2 0 2	135 / 20 20 / 40	4,210 10,514,657	clan	298	shadowcat	normal	270	0	270	270
+clan.shadowcat.shc-h	shc-h	45	xl 270		1 m (20)			1 e		6			xl 270	1 0 1	135 / 20 20 / 40	n/a	clan	598	shadowcat	normal	270	0	270	270
+clan.shadowcat.shc-p	shc-p	45	xl 270	3 b	3 b			1 b		6			xl 270	0 7 0	135 / 20 20 / 40	3,585 8,957,177	clan	299	shadowcat	normal	270	0	270	270
+clan.shadowcat.shc-prime	shc-prime	45	xl 270	1 e	1 ams		1 e	1 b		6			xl 270	2 1 0	135 / 20 20 / 40	3,850 9,614,177	clan	296	shadowcat	normal	270	0	270	270
+clan.shadowcat.shc-prime(c) champion	shc-prime(c) champion	45	xl 270	1 e	1 ecm		1 e	1 e		6			xl 270	3 0 0	135 / 20 20 / 40	4,815	clan	402	shadowcat	champion	270	0	270	270
+clan.stormcrow.lacerator hero	lacerator hero	55	xl 330	1 b	1 ams		1 ams 1 e	1 b 1 e					xl 330	2 2 0	130 / 35 20 / 30	n/a	clan	479	stormcrow	hero	330	0	330	330
+clan.stormcrow.scr-a	scr-a	55	xl 330	4 e	1 m (20)		1 m (20)	1 m (20)					xl 330	4 0 3	130 / 35 20 / 30	4,530 11,317,504	clan	268	stormcrow	normal	330	0	330	330
+clan.stormcrow.scr-b	scr-b	55	xl 330	1 b				6 e					xl 330	6 1 0	130 / 35 20 / 30	4,675 11,685,354	clan	308	stormcrow	normal	330	0	330	330
+clan.stormcrow.scr-c	scr-c	55	xl 330	1 b	1 e		1 e	1 e					xl 330	3 1 0	130 / 35 20 / 30	4,460 11,139,367	clan	184	stormcrow	normal	330	0	330	330
+clan.stormcrow.scr-d	scr-d	55	xl 330	1 m (20)	2 m (20, 15)		1 m (20)	1 m (20)					xl 330	0 0 5	130 / 35 20 / 30	4,480 11,187,742	clan	185	stormcrow	normal	330	0	330	330
+clan.stormcrow.scr-prime	scr-prime	55	xl 330	2 e			1 ams	2 e	1 e				xl 330	5 0 0	130 / 35 20 / 30	4,450 11,113,382	clan	183	stormcrow	normal	330	0	330	330
+clan.stormcrow.scr-prime(c) champion	scr-prime(c) champion	55	xl 330	2 e	1 e		1 e	1 m (20)	1 e				xl 330	5 0 1	130 / 35 20 / 30	5,565	clan	353	stormcrow	champion	330	0	330	330
+clan.summoner.pride hero	pride hero	70	xl 350	2 b	1 ams 1 e			1 e		5			xl 350	2 2 0	80 / 20 20 / 30	n/a	clan	480	summoner	hero	350	0	350	350
+clan.summoner.smn-b	smn-b	70	xl 350	2 m (10x2)	1 ams 1 m (20)			2 m (10x2)		5			xl 350	0 0 5	80 / 20 20 / 30	5,630 14,069,481	clan	188	summoner	normal	350	0	350	350
+clan.summoner.smn-c	smn-c	70	xl 350	1 b	1 m (20)			2 e		5			xl 350	2 1 1	80 / 20 20 / 30	5,585 13,957,711	clan	269	summoner	normal	350	0	350	350
+clan.summoner.smn-d	smn-d	70	xl 350	2 e	1 ams 1 b		1 ams 1 b	2 e		5			xl 350	4 2 0	80 / 20 20 / 30	5,560 13,899,241	clan	189	summoner	normal	350	0	350	350
+clan.summoner.smn-f	smn-f	70	xl 350	1 b 1 e	1 m (20)		1 e	1 b 1 e		5			xl 350	3 2 1	80 / 20 20 / 30	n/a	clan	517	summoner	normal	350	0	350	350
+clan.summoner.smn-f(l) special	smn-f(l) special	70	xl 350	1 b 1 e	1 m (20)		1 e	1 b 1 e		5			xl 350	3 2 1	80 / 20 20 / 30	n/a	clan	467	summoner	special	350	0	350	350
+clan.summoner.smn-m	smn-m	70	xl 350	1 b	1 e 1 m (20)			1 e		5			xl 350	2 1 1	80 / 20 20 / 30	n/a	clan	518	summoner	normal	350	0	350	350
+clan.summoner.smn-m(l) special	smn-m(l) special	70	xl 350	1 b	1 e 1 m (20)			1 e		5			xl 350	2 1 1	80 / 20 20 / 30	n/a	clan	468	summoner	special	350	0	350	350
+clan.summoner.smn-prime	smn-prime	70	xl 350	1 b	1 m (20)			1 e		5			xl 350	1 1 1	80 / 20 20 / 30	5,630 14,071,353	clan	187	summoner	normal	350	0	350	350
+clan.sunspider.manul hero	manul hero	70	xl 350	2 e	1 e		1 ams	2 e					xl 350	5 0 0	80 / 0 20 / 30	n/a	clan	680	sunspider	hero	350	0	350	350
+clan.sunspider.sns-a	sns-a	70	xl 350	1 e	2 b		2 b	1 e					xl 350	2 4 0	80 / 0 20 / 30	n/a	clan	676	sunspider	normal	350	0	350	350
+clan.sunspider.sns-b	sns-b	70	xl 350	1 e 1 m (20)	1 ams 1 e		1 b	1 e 1 m (20)					xl 350	3 1 2	80 / 0 20 / 30	n/a	clan	677	sunspider	normal	350	0	350	350
+clan.sunspider.sns-c	sns-c	70	xl 350	2 m (20x2)	1 m (20)		1 m (20)	2 m (20x2)					xl 350	0 0 6	80 / 0 20 / 30	n/a	clan	678	sunspider	normal	350	0	350	350
+clan.sunspider.sns-d	sns-d	70	xl 350	1 b	1 ecm		2 b	1 b					xl 350	0 4 0	80 / 0 20 / 30	n/a	clan	679	sunspider	normal	350	0	350	350
+clan.sunspider.sns-prime	sns-prime	70	xl 350	2 m (20x2)	1 e		1 b	2 m (20x2)					xl 350	1 1 4	80 / 0 20 / 30	n/a	clan	675	sunspider	normal	350	0	350	350
+clan.sunspider.vanguard hero	vanguard hero	70	xl 350	1 m (20)	1 b 1 e		1 b	2 m (20x2)					xl 350	1 2 3	80 / 0 20 / 30	n/a	clan	681	sunspider	hero	350	0	350	350
+clan.supernova.boiler hero	boiler hero	90	std 270	1 b	3 m (20x3)	1 ams	3 e	1 b		3			180 - 325 std 270	3 2 3	85 / 20 25 / 30	n/a	clan	513	supernova	hero	270	0	180	325
+clan.supernova.snv-1	snv-1	90	std 270	4 e	1 ams			4 e		3			180 - 325 std 270	8 0 0	85 / 20 25 / 30	n/a	clan	508	supernova	normal	270	0	180	325
+clan.supernova.snv-3	snv-3	90	std 270	2 e	1 ams	2 e		2 e	1 e	3			180 - 325 std 270	7 0 0	85 / 20 25 / 30	n/a	clan	509	supernova	normal	270	0	180	325
+clan.supernova.snv-a	snv-a	90	std 270	2 e	2 m (20x2)	1 ams	2 m (20x2)	2 e		3			180 - 325 std 270	4 0 4	85 / 20 25 / 30	n/a	clan	510	supernova	normal	270	0	180	325
+clan.supernova.snv-b	snv-b	90	std 270	3 e	1 ams	1 e		3 e	1 e	3			180 - 325 std 270	8 0 0	85 / 20 25 / 30	n/a	clan	511	supernova	normal	270	0	180	325
+clan.supernova.snv-c	snv-c	90	std 270	2 e	2 e	1 ams	2 e	2 e		3			180 - 325 std 270	8 0 0	85 / 20 25 / 30	n/a	clan	512	supernova	normal	270	0	180	325
+clan.timberwolf.tbr-a	tbr-a	75	xl 375	1 e	3 e	1 e	1 m (20)	1 e					xl 375	6 0 1	80 / 25 20 / 30	5,910 14,769,027	clan	309	timberwolf	normal	375	0	375	375
+clan.timberwolf.tbr-c	tbr-c	75	xl 375	2 e	1 ams 1 m (20)	1 e	1 m (20)	1 b					xl 375	3 1 2	80 / 25 20 / 30	6,070 15,163,647	clan	164	timberwolf	normal	375	0	375	375
+clan.timberwolf.tbr-c(c) champion	tbr-c(c) champion	75	xl 375	2 e	1 e 1 m (20)	1 e	1 b 1 e 2 m (20, 15)	1 b					xl 375	5 2 3	80 / 25 20 / 30	7,590	clan	318	timberwolf	champion	375	0	375	375
+clan.timberwolf.tbr-d	tbr-d	75	xl 375	1 e	2 m (20, 15)	1 e	2 m (20, 15)	1 e					xl 375	3 0 4	80 / 25 20 / 30	6,075 15,177,027	clan	270	timberwolf	normal	375	0	375	375
+clan.timberwolf.tbr-prime	tbr-prime	75	xl 375	2 e	1 e 1 m (20)	1 b	1 b 1 m (20)	2 e					xl 375	5 2 2	80 / 25 20 / 30	6,075 15,178,647	clan	163	timberwolf	normal	375	0	375	375
+clan.timberwolf.tbr-s	tbr-s	75	xl 375	1 e	1 b 2 m (20, 15)		1 b 1 e 2 m (20, 15)	2 e					xl 375	4 2 4	80 / 25 20 / 30	5,910 14,766,027	clan	165	timberwolf	normal	375	0	375	375
+clan.timberwolf.warrant hero	warrant hero	75	xl 375	1 b	1 e 1 m (20)		1 e 1 m (20)	2 e					xl 375	4 1 2	80 / 25 20 / 30	n/a	clan	481	timberwolf	hero	375	0	375	375
+clan.vaporeagle.rival hero	rival hero	55	xl 330	3 b		1 ams	1 m (20)	2 e		6			110 - 400 xl 330	2 3 1	125 / 35 20 / 30	n/a	clan	752	vaporeagle	hero	330	0	110	400
+clan.vaporeagle.vgl-1	vgl-1	55	xl 330	3 b	1 b 1 e 1 m (20)	1 ams	2 e 1 m (20)	1 e		6			110 - 400 xl 330	4 4 2	125 / 35 20 / 30	n/a	clan	747	vaporeagle	normal	330	0	110	400
+clan.vaporeagle.vgl-2	vgl-2	55	xl 330	3 b	2 b	1 ams	1 e	1 e		6			110 - 400 xl 330	2 5 0	125 / 35 20 / 30	n/a	clan	748	vaporeagle	normal	330	0	110	400
+clan.vaporeagle.vgl-3	vgl-3	55	xl 330	1 m (20)	1 e 1 m (20)	1 ams	2 e 1 m (20)	1 e		6			110 - 400 xl 330	4 0 3	125 / 35 20 / 30	n/a	clan	749	vaporeagle	normal	330	0	110	400
+clan.vaporeagle.vgl-4	vgl-4	55	xl 330	3 e	1 m (20)	1 ams	1 m (20)	4 e					110 - 400 xl 330	7 0 2	125 / 35 20 / 30	n/a	clan	750	vaporeagle	normal	330	0	110	400
+clan.vaporeagle.vgl-a	vgl-a	55	xl 330	2 m (20x2)	1 b 1 e	1 ams	1 e	2 m (20x2)		6			110 - 400 xl 330	2 1 4	125 / 35 20 / 30	n/a	clan	751	vaporeagle	normal	330	0	110	400
+clan.viper.medusa hero	medusa hero	40	xl 320	3 e	1 m (15)	1 ams		3 e		8			xl 320	6 0 1	130 / 30 20 / 30	3,750	clan	427	viper	hero	320	0	320	320
+clan.viper.vpr-a	vpr-a	40	xl 320	1 m (10)	2 e		2 e	1 e		8			xl 320	5 0 1	130 / 30 20 / 30	4,020 10,046,887	clan	423	viper	normal	320	0	320	320
+clan.viper.vpr-b	vpr-b	40	xl 320	1 e	1 e		1 e	1 e		8			xl 320	4 0 0	130 / 30 20 / 30	3,845 9,611,887	clan	424	viper	normal	320	0	320	320
+clan.viper.vpr-c	vpr-c	40	xl 320	2 e	2 b	1 e	2 b	2 e		8			xl 320	5 4 0	130 / 30 20 / 30	3,900 9,743,887	clan	425	viper	normal	320	0	320	320
+clan.viper.vpr-d	vpr-d	40	xl 320	1 m (10)	1 e		1 m (15)	2 e		8			xl 320	3 0 2	130 / 30 20 / 30	3,865 9,659,447	clan	426	viper	normal	320	0	320	320
+clan.viper.vpr-prime	vpr-prime	40	xl 320	1 m (10)	1 ams		2 b	2 e		8			xl 320	2 2 1	130 / 30 20 / 30	3,820 9,542,887	clan	422	viper	normal	320	0	320	320
+clan.warhammeriic.bludgeon hero	bludgeon hero	80	std 320	1 e	1 e	1 ams	1 e 1 m (20)	1 e	1 e	4			160 - 385 std 320	5 0 1	75 / 30 20 / 30	n/a	clan	775	warhammeriic	hero	320	0	160	385
+clan.warhammeriic.maul hero	maul hero	80	std 320	1 e	1 b 1 e 1 m (20)	1 ams	1 b 1 e 1 m (20)	1 e					160 - 385 std 320	4 2 2	75 / 30 20 / 30	n/a	clan	774	warhammeriic	hero	320	0	160	385
+clan.warhammeriic.whm-iic	whm-iic	80	std 320	1 e	2 e	1 ams	2 e 1 m (20)	1 e	1 e				160 - 385 std 320	7 0 1	75 / 30 20 / 30	n/a	clan	769	warhammeriic	normal	320	0	160	385
+clan.warhammeriic.whm-iic-10	whm-iic-10	80	std 320	2 e	2 m (20x2)	1 ams	1 m (20)	2 e	1 e				160 - 385 std 320	5 0 3	75 / 0 20 / 30	n/a	clan	773	warhammeriic	normal	320	0	160	385
+clan.warhammeriic.whm-iic-2	whm-iic-2	80	std 320	1 e	2 m (20x2)	1 ams	3 m (20x3)	1 e					160 - 385 std 320	2 0 5	75 / 30 20 / 30	n/a	clan	770	warhammeriic	normal	320	0	160	385
+clan.warhammeriic.whm-iic-3	whm-iic-3	80	std 320	1 e	2 e	1 ams	2 e	1 e	1 e				160 - 385 std 320	7 0 0	75 / 30 20 / 30	n/a	clan	771	warhammeriic	normal	320	0	160	385
+clan.warhammeriic.whm-iic-4	whm-iic-4	80	std 320	2 e	2 m (20x2)	1 ams	2 m (20x2)	1 e	1 e				160 - 385 std 320	4 0 4	75 / 30 20 / 30	n/a	clan	772	warhammeriic	normal	320	0	160	385
+clan.warhammeriic.whm-iic-a	whm-iic-a	80	std 320	1 b	1 e 2 m (20x2)	1 ams 1 e	1 e 1 m (20)	1 b					160 - 385 std 320	3 2 3	75 / 30 20 / 30	n/a	clan	781	warhammeriic	normal	320	0	160	385
+clan.warhawk.nanuq hero	nanuq hero	85	xl 340	3 e			1 m (20)	2 b					xl 340	3 2 1	90 / 20 20 / 30	n/a	clan	482	warhawk	hero	340	0	340	340
+clan.warhawk.whk-a	whk-a	85	xl 340	2 e 1 m (20)			1 m (20)	1 b					xl 340	2 1 2	90 / 20 20 / 30	6,330 15,816,221	clan	192	warhawk	normal	340	0	340	340
+clan.warhawk.whk-b	whk-b	85	xl 340	1 b 1 e		1 m (15)	2 m (20, 15)	3 e					xl 340	4 1 3	90 / 20 20 / 30	6,125 15,311,701	clan	193	warhawk	normal	340	0	340	340
+clan.warhawk.whk-c	whk-c	85	xl 340	2 e		1 e		2 e					xl 340	5 0 0	90 / 20 20 / 30	6,190 15,473,201	clan	271	warhawk	normal	340	0	340	340
+clan.warhawk.whk-c(c) champion	whk-c(c) champion	85	xl 340	1 b 1 e		1 e		3 e					xl 340	5 1 0	90 / 20 20 / 30	7,740	clan	404	warhawk	champion	340	0	340	340
+clan.warhawk.whk-prime	whk-prime	85	xl 340	2 e 1 m (20)			1 ams	2 e					xl 340	4 0 1	90 / 20 20 / 30	6,465 16,152,261	clan	191	warhawk	normal	340	0	340	340
+innersphere.annihilator.anh-1a	anh-1a	100	std 200	1 b 1 e	2 b	2 e	1 ams 1 b	1 b 2 e					200 - 300 std 200	5 5 0	90 / 40 20 / 25	n/a	innersphere	567	annihilator	normal	200	0	200	300
+innersphere.annihilator.anh-1e	anh-1e	100	std 200	3 e		2 e	1 ams	3 e	1 ams				200 - 300 std 200	8 0 0	90 / 40 20 / 25	n/a	innersphere	568	annihilator	normal	200	0	200	300
+innersphere.annihilator.anh-1p	anh-1p	100	std 300	2 b	2 e	2 e	1 ams 2 e	2 b					200 - 300 std 300	6 4 0	90 / 0 20 / 25	n/a	innersphere	570	annihilator	normal	300	0	200	300
+innersphere.annihilator.anh-1x	anh-1x	100	std 200	1 b 2 e	1 b	2 e	1 ams 1 b	1 b 2 e	1 e				200 - 300 std 200	7 4 0	90 / 40 20 / 25	n/a	innersphere	569	annihilator	normal	200	0	200	300
+innersphere.annihilator.anh-2a	anh-2a	100	std 200	1 b 1 e	2 b	2 e	1 ams 2 b	1 b 1 e					200 - 300 std 200	4 6 0	90 / 40 20 / 25	n/a	innersphere	566	annihilator	normal	200	0	200	300
+innersphere.annihilator.mean baby hero	mean baby hero	100	xl 300	2 e	2 m (20x2)	1 e	1 ams 2 m (20x2)	2 e	1 e				200 - 300 xl 300	6 0 4	90 / 40 20 / 25	n/a	innersphere	571	annihilator	hero	300	0	200	300
+innersphere.archer.arc-2r	arc-2r	70	std 280	2 e	2 m (20x2)	2 e	1 ams 1 m (20)	2 e					140 - 340 std 280	6 0 3	110 / 20 25 / 30	2,505 6,261,235	innersphere	392	archer	normal	280	0	140	340
+innersphere.archer.arc-5s	arc-5s	70	xl 280	1 e 1 m (20)	2 m (20x2)	2 e	1 ams 1 m (20)	1 e 1 m (20)					140 - 340 xl 280	4 0 5	120 / 20 25 / 30	3,825 9,551,235	innersphere	393	archer	normal	280	0	140	340
+innersphere.archer.arc-5w	arc-5w	70	xl 280	2 m (20x2)	2 m (20x2)	1 m (10)	1 ams 2 m (20x2)	2 m (20x2)					140 - 340 xl 280	0 0 9	100 / 20 25 / 30	3,805 9,503,235	innersphere	394	archer	normal	280	0	140	340
+innersphere.archer.tempest hero	tempest hero	70	std 280	2 e	1 ecm 1 m (20)	2 e 1 m (10)	1 ams 1 m (20)	2 e					140 - 340 std 280	6 0 3	100 / 20 25 / 30	5,250	innersphere	395	archer	hero	280	0	140	340
+innersphere.assassin.asn-101	asn-101	40	std 280		1 e 1 m (10)	1 ams	1 e 1 m (10)	1 e	1 e	5			100 - 380 std 280	4 0 2	130 / 30 30 / 30	n/a	innersphere	522	assassin	normal	280	0	100	380
+innersphere.assassin.asn-101(c) champion	asn-101(c) champion	40	xl 280		1 e 1 m (10)	1 ams	1 e 1 m (10)	1 e	1 e	5			100 - 380 xl 280	4 0 2	130 / 30 30 / 30	n/a	innersphere	700	assassin	champion	280	0	100	380
+innersphere.assassin.asn-21	asn-21	40	std 280		2 m (10x2)	1 ams	2 m (10x2)	2 e		7			100 - 365 std 280	2 0 4	130 / 30 30 / 30	n/a	innersphere	520	assassin	normal	280	0	100	365
+innersphere.assassin.asn-23	asn-23	40	std 280			1 ams	3 m (10x3)	3 e		7			100 - 365 std 280	3 0 3	130 / 30 30 / 30	n/a	innersphere	521	assassin	normal	280	0	100	365
+innersphere.assassin.asn-26	asn-26	40	xl 280		2 e	1 ams	2 b	2 e		7			100 - 365 xl 280	4 2 0	130 / 30 30 / 30	n/a	innersphere	523	assassin	normal	280	0	100	365
+innersphere.assassin.asn-27	asn-27	40	xl 280		1 ecm 1 m (10)	1 ams	1 m (10)	2 e	1 e	7			100 - 365 xl 280	3 0 2	130 / 30 30 / 30	n/a	innersphere	524	assassin	normal	280	0	100	365
+innersphere.assassin.darkdeath hero	darkdeath hero	40	xl 280		1 ecm 1 e	1 ams	2 m (10x2)	1 b	1 e	7			100 - 365 xl 280	2 1 2	130 / 30 30 / 30	n/a	innersphere	525	assassin	hero	280	0	100	365
+innersphere.atlas.as7-d	as7-d	100	std 300	1 ams 1 e	2 m (10, 6)	2 e	2 b	1 e					200 - 360 std 300	4 2 2	90 / 40 16 / 30	3,875 9,676,072	innersphere	16	atlas	normal	300	0	200	360
+innersphere.atlas.as7-d-dc	as7-d-dc	100	std 300	1 ams 1 e	1 ecm 3 m (10, 6x2)		2 b	1 e					200 - 360 std 300	2 2 3	90 / 40 16 / 30	4,195 10,486,012	innersphere	17	atlas	normal	300	0	200	360
+innersphere.atlas.as7-k	as7-k	100	xl 300	1 ams 1 e	1 m (10)	2 e	1 b	1 ams 1 e					200 - 360 xl 300	4 1 1	90 / 40 16 / 30	5,480 13,691,066	innersphere	25	atlas	normal	300	0	200	360
+innersphere.atlas.as7-rs	as7-rs	100	std 300	1 ams 2 e	2 m (10, 6)		1 b	2 e					200 - 360 std 300	4 1 2	90 / 40 16 / 30	3,745 9,358,066	innersphere	18	atlas	normal	300	0	200	360
+innersphere.atlas.as7-rs(c) champion	as7-rs(c) champion	100	std 350	1 ams 2 e	2 m (10, 6)		1 b	2 e					200 - 360 std 350	4 1 2	90 / 40 16 / 30	4,685	innersphere	92	atlas	champion	350	0	200	360
+innersphere.atlas.as7-s	as7-s	100	std 300	1 ams 1 e	4 m (10, 6x3)	2 e	1 b	1 e					200 - 360 std 300	4 1 4	85 / 35 16 / 30	3,930 9,820,075	innersphere	241	atlas	normal	300	0	200	360
+innersphere.atlas.boar&#039;s head hero	boar&#039;s head hero	100	xl 400	1 ams 3 e	1 m (10)		1 b	3 e					200 - 400 xl 400	6 1 1	85 / 35 16 / 30	7,500	innersphere	103	atlas	hero	400	0	200	400
+innersphere.atlas.kraken hero	kraken hero	100	xl 300	1 ams 1 e	2 m (10x2)	2 e	1 b	2 e					200 - 360 xl 300	5 1 2	90 / 40 16 / 30	n/a	innersphere	695	atlas	hero	300	0	200	360
+innersphere.awesome.aws-8q	aws-8q	80	std 240		2 e		1 ams 2 e	2 e	1 e				160 - 300 std 240	7 0 0	100 / 40 20 / 30	2,710 6,764,270	innersphere	14	awesome	normal	240	0	160	300
+innersphere.awesome.aws-8r	aws-8r	80	std 240		2 m (20x2)		1 ams 2 m (20x2)	2 e	1 e				160 - 300 std 240	3 0 4	100 / 40 20 / 30	2,610 6,524,390	innersphere	15	awesome	normal	240	0	160	300
+innersphere.awesome.aws-8t	aws-8t	80	std 240	2 e	1 m (20)		1 ams 1 m (20)	2 e	1 e				160 - 300 std 240	5 0 2	100 / 40 20 / 30	2,685 6,704,390	innersphere	30	awesome	normal	240	0	160	300
+innersphere.awesome.aws-8v	aws-8v	80	std 240		2 e		1 ams 3 m (20x2, 15)	1 e	1 e				160 - 300 std 240	4 0 3	100 / 40 20 / 30	2,630 6,574,390	innersphere	31	awesome	normal	240	0	160	300
+innersphere.awesome.aws-9m	aws-9m	80	xl 320	1 m (20)	1 e	2 e 2 m (10, 5)	1 ams 1 e	1 e	1 e				160 - 385 xl 320	6 0 3	100 / 40 20 / 30	4,615 11,534,852	innersphere	32	awesome	normal	320	0	160	385
+innersphere.awesome.aws-9m(c) champion	aws-9m(c) champion	80	std 315	1 m (20)	1 e	2 e 2 m (10, 5)	1 ams 1 e	1 e	1 e				160 - 385 std 315	6 0 3	100 / 40 20 / 30	5,715	innersphere	399	awesome	champion	315	0	160	385
+innersphere.awesome.pretty baby hero	pretty baby hero	80	xl 340	2 m (4x2)	1 e		1 ams 1 m (15)	1 e	1 e				160 - 400 xl 340	3 0 3	100 / 40 20 / 30	6,000	innersphere	58	awesome	hero	340	0	160	400
+innersphere.banshee.bnc-3e	bnc-3e	95	std 380		4 b	1 ams	3 e		1 e				190 - 400 std 380	4 4 0	90 / 20 20 / 30	3,420 8,542,695	innersphere	144	banshee	normal	380	0	190	400
+innersphere.banshee.bnc-3m	bnc-3m	95	std 380		3 e	1 ams	4 e		1 e				190 - 400 std 380	8 0 0	90 / 20 20 / 30	3,540 8,848,195	innersphere	145	banshee	normal	380	0	190	400
+innersphere.banshee.bnc-3m(c) champion	bnc-3m(c) champion	95	std 350		3 e	1 ams	4 e		1 e				190 - 400 std 350	8 0 0	90 / 20 20 / 30	4,425	innersphere	251	banshee	champion	350	0	190	400
+innersphere.banshee.bnc-3s	bnc-3s	95	std 285	1 e	1 b	1 ams 1 e	5 e 1 m (20)		1 e				190 - 345 std 285	8 1 1	90 / 20 20 / 30	3,630 9,067,028	innersphere	146	banshee	normal	285	0	190	345
+innersphere.banshee.la malinche hero	la malinche hero	95	xl 380	1 e	1 b 1 e	1 ams	1 m (20)	1 e	1 e				190 - 400 xl 380	4 1 1	90 / 20 20 / 30	7,125	innersphere	143	banshee	hero	380	0	190	400
+innersphere.banshee.siren hero	siren hero	95	xl 380	3 e	2 b	1 ams	1 e	1 m (20)		4			190 - 400 xl 380	4 2 1	90 / 20 20 / 30	n/a	innersphere	694	banshee	hero	380	0	190	400
+innersphere.battlemaster.blr-1d	blr-1d	85	std 340	3 b	2 e		1 ams 2 e	1 e					170 - 400 std 340	5 3 0	80 / 30 20 / 30	2,950 7,363,725	innersphere	119	battlemaster	normal	340	0	170	400
+innersphere.battlemaster.blr-1g	blr-1g	85	std 340	2 b	3 e 1 m (10)		1 ams 3 e	1 e					170 - 400 std 340	7 2 1	60 / 30 20 / 30	3,085 7,703,709	innersphere	118	battlemaster	normal	340	0	170	400
+innersphere.battlemaster.blr-1s	blr-1s	85	std 340	1 m (15)	2 e 2 m (10x2)		1 ams 2 e	1 m (15)					170 - 400 std 340	4 0 4	80 / 30 20 / 30	2,985 7,452,829	innersphere	120	battlemaster	normal	340	0	170	400
+innersphere.battlemaster.blr-2c	blr-2c	85	std 340	1 ams	3 e 2 m (10x2)		1 ams 2 e	1 e					170 - 400 std 340	6 0 2	80 / 30 20 / 30	3,720 9,292,709	innersphere	310	battlemaster	normal	340	0	170	400
+innersphere.battlemaster.blr-2c(c) champion	blr-2c(c) champion	85	std 315	1 ams	3 e 2 m (20x2)		1 ams 2 e	1 e					170 - 400 std 315	6 0 2	80 / 30 20 / 30	4,650	innersphere	400	battlemaster	champion	315	0	170	400
+innersphere.battlemaster.blr-3m	blr-3m	85	std 340	1 b	3 e 1 m (10)		1 ams 3 e	2 e					170 - 400 std 340	8 1 1	60 / 30 20 / 30	3,275 8,177,709	innersphere	149	battlemaster	normal	340	0	170	400
+innersphere.battlemaster.blr-3s	blr-3s	85	xl 340		3 e 1 m (10)		1 ams 3 e	1 m (15)					170 - 400 xl 340	6 0 2	80 / 30 20 / 30	4,705 11,760,821	innersphere	150	battlemaster	normal	340	0	170	400
+innersphere.battlemaster.hellslinger hero	hellslinger hero	85	std 340	1 e	2 e 3 m (10x3)		1 ams 2 e	1 e					170 - 400 std 340	6 0 3	75 / 30 20 / 30	6,375	innersphere	204	battlemaster	hero	340	0	170	400
+innersphere.blackjack.arrow hero	arrow hero	45	std 235	3 b	1 ams 1 e	1 e	1 e	3 b		4			100 - 235 std 235	3 6 0	90 / 0 30 / 30	3,375	innersphere	159	blackjack	hero	235	0	100	235
+innersphere.blackjack.bj-1	bj-1	45	std 180	1 b 1 e	1 ams 1 e		1 e	1 b 1 e		4			100 - 235 std 180	4 2 0	110 / 0 30 / 30	1,355 3,385,436	innersphere	77	blackjack	normal	180	0	100	235
+innersphere.blackjack.bj-1(c) champion	bj-1(c) champion	45	xl 235	1 b 1 e	1 ams 1 e		1 e	1 b 1 e		4			100 - 235 xl 235	4 2 0	110 / 0 30 / 30	1,695	innersphere	122	blackjack	champion	235	0	100	235
+innersphere.blackjack.bj-1dc	bj-1dc	45	std 180	1 b 1 e	1 ams 2 e		2 e	1 b 1 e					100 - 235 std 180	6 2 0	90 / 0 30 / 30	1,255 3,130,436	innersphere	78	blackjack	normal	180	0	100	235
+innersphere.blackjack.bj-1x	bj-1x	45	std 225	3 e	1 ams 1 e		1 e	3 e					100 - 295 std 225	8 0 0	80 / 0 30 / 30	1,260 3,144,528	innersphere	79	blackjack	normal	225	0	100	295
+innersphere.blackjack.bj-2	bj-2	45	std 180	1 e	1 ams 2 m (20x2)		2 m (20x2)	1 e		4			100 - 235 std 180	2 0 4	110 / 0 30 / 30	n/a	innersphere	514	blackjack	normal	180	0	100	235
+innersphere.blackjack.bj-2(l) special	bj-2(l) special	45	std 180	1 e	1 ams 2 m (20x2)		2 m (20x2)	1 e		4			100 - 235 std 180	2 0 4	110 / 0 30 / 30	n/a	innersphere	463	blackjack	special	180	0	100	235
+innersphere.blackjack.bj-3	bj-3	45	std 180	2 e	1 ams 1 e		1 e	2 e		4			100 - 235 std 180	6 0 0	110 / 0 30 / 30	1,605 4,000,461	innersphere	80	blackjack	normal	180	0	100	235
+innersphere.blackknight.bl-6-knt	bl-6-knt	75	std 300	1 e	1 ams 2 e		1 ams 2 e	2 e	1 e				150 - 360 std 300	8 0 0	110 / 20 20 / 25	2,780 6,949,667	innersphere	320	blackknight	normal	300	0	150	360
+innersphere.blackknight.bl-6b-knt	bl-6b-knt	75	std 300	2 e	1 ams 2 e		2 e	2 e	1 e				150 - 360 std 300	9 0 0	110 / 10 20 / 25	2,995 7,481,667	innersphere	321	blackknight	normal	300	0	150	360
+innersphere.blackknight.bl-7-knt	bl-7-knt	75	std 300	1 e	1 ams 2 e		3 e	2 e	1 e				150 - 360 std 300	9 0 0	110 / 10 20 / 25	2,615 6,529,635	innersphere	322	blackknight	normal	300	0	150	360
+innersphere.blackknight.bl-7-knt-l	bl-7-knt-l	75	std 300	1 e	1 ams 2 e		2 e	2 e	1 e				150 - 385 std 300	8 0 0	110 / 10 20 / 25	2,540 6,337,635	innersphere	323	blackknight	normal	300	0	150	385
+innersphere.blackknight.partisan hero	partisan hero	75	std 300	1 b 1 m (20)	1 ams 2 e		2 e	2 e					150 - 360 std 300	6 1 1	110 / 10 20 / 25	n/a	innersphere	554	blackknight	hero	300	0	150	360
+innersphere.bushwacker.bsw-p1	bsw-p1	55	xl 275	2 m (20, 15)	2 m (20x2)	1 e	2 m (20x2)	1 b	1 ams				200 - 360 xl 275	1 1 6	110 / 35 30 / 30	n/a	innersphere	504	bushwacker	normal	275	0	200	360
+innersphere.bushwacker.bsw-p2	bsw-p2	55	xl 275	1 m (20)	1 b 1 m (20)	2 e	1 b	2 e	1 ams				200 - 360 xl 275	4 2 2	110 / 35 30 / 30	n/a	innersphere	505	bushwacker	normal	275	0	200	360
+innersphere.bushwacker.bsw-s2	bsw-s2	55	xl 275	2 m (20, 15)	1 ams 2 m (20x2)	2 e		1 b	1 ams				200 - 360 xl 275	2 1 4	110 / 35 30 / 30	n/a	innersphere	503	bushwacker	normal	275	0	200	360
+innersphere.bushwacker.bsw-s2(c) champion	bsw-s2(c) champion	55	std 245	2 m (20, 15)	1 ams 2 m (20x2)	2 e		1 b	1 ams				200 - 360 std 245	2 1 4	110 / 35 30 / 30	n/a	innersphere	699	bushwacker	champion	245	0	200	360
+innersphere.bushwacker.bsw-x1	bsw-x1	55	xl 275	2 m (20, 15)	1 b 1 m (20)	1 e	2 b	1 b	1 ams				200 - 360 xl 275	1 4 3	110 / 35 30 / 30	n/a	innersphere	501	bushwacker	normal	275	0	200	360
+innersphere.bushwacker.bsw-x2	bsw-x2	55	xl 275	1 m (20)	1 b 2 m (20x2)	2 e	1 b	1 b	1 ams				200 - 360 xl 275	2 3 3	110 / 35 30 / 30	n/a	innersphere	502	bushwacker	normal	275	0	200	360
+innersphere.bushwacker.high roller hero	high roller hero	55	xl 275	3 e	1 b 1 m (20)	1 e	1 b	1 b	1 ams				200 - 360 xl 275	4 3 1	110 / 35 30 / 30	n/a	innersphere	506	bushwacker	hero	275	0	200	360
+innersphere.cataphract.ctf-0xp	ctf-0xp	70	std 280	2 e	1 ecm 1 ams		1 b	2 e					140 - 340 std 280	4 1 0	90 / 20 20 / 30	2,585 6,458,479	innersphere	311	cataphract	normal	280	0	140	340
+innersphere.cataphract.ctf-1x	ctf-1x	70	std 280	1 e	1 ams 1 e		1 b 1 e	2 e					140 - 340 std 280	5 1 0	90 / 20 20 / 30	2,385 5,950,963	innersphere	41	cataphract	normal	280	0	140	340
+innersphere.cataphract.ctf-2x	ctf-2x	70	std 280	2 m (6x2)	1 ams 1 e		1 b 1 e	1 e					140 - 340 std 280	3 1 2	90 / 20 20 / 30	2,305 5,755,995	innersphere	42	cataphract	normal	280	0	140	340
+innersphere.cataphract.ctf-3d	ctf-3d	70	xl 280	1 e	1 ams 1 e		1 b 1 e	1 b 1 e		4			140 - 340 xl 280	4 2 0	90 / 20 20 / 30	3,955 9,881,953	innersphere	40	cataphract	normal	280	0	140	340
+innersphere.cataphract.ctf-3d(c) champion	ctf-3d(c) champion	70	std 300	1 e	1 ams 1 e		1 b 1 e	1 b 1 e		4			140 - 340 std 300	4 2 0	90 / 20 20 / 30	4,945	innersphere	142	cataphract	champion	300	0	140	340
+innersphere.cataphract.ctf-3l	ctf-3l	70	xl 280	1 e	1 ams 1 e		1 b 1 e	2 e					140 - 340 xl 280	5 1 0	90 / 10 20 / 30	n/a	innersphere	43	cataphract	normal	280	0	140	340
+innersphere.cataphract.ctf-3l(l) special	ctf-3l(l) special	70	xl 280	1 e	1 ams 1 e		1 b 1 e	2 e					140 - 340 xl 280	5 1 0	90 / 10 20 / 30	n/a	innersphere	464	cataphract	special	280	0	140	340
+innersphere.cataphract.ctf-4x	ctf-4x	70	std 210	2 b	1 ams	2 e		2 b	1 m (5)				140 - 255 std 210	2 4 1	90 / 20 20 / 30	2,095 5,229,289	innersphere	44	cataphract	normal	210	0	140	255
+innersphere.cataphract.ilya muromets hero	ilya muromets hero	70	xl 280	1 b	1 ams 1 e		1 b 1 e	1 b 1 e					140 - 340 xl 280	3 3 0	90 / 20 20 / 30	5,250	innersphere	54	cataphract	hero	280	0	140	340
+innersphere.catapult.butterbee hero	butterbee hero	65	std 260	2 m (20x2)	1 e	2 e	1 ams 1 e	2 m (20x2)		4			130 - 315 std 260	4 0 4	120 / 0 16 / 35	4,875	innersphere	420	catapult	hero	260	0	130	315
+innersphere.catapult.cplt-a1	cplt-a1	65	std 260	3 m (20, 10x2)			1 ams	3 m (20, 10x2)		4			130 - 315 std 260	0 0 6	120 / 0 16 / 35	2,230 5,564,279	innersphere	13	catapult	normal	260	0	130	315
+innersphere.catapult.cplt-a1(c) champion	cplt-a1(c) champion	65	xl 255	3 m (20, 10x2)			1 ams	3 m (20, 10x2)		4			130 - 315 xl 255	0 0 6	120 / 0 16 / 35	2,790	innersphere	91	catapult	champion	255	0	130	315
+innersphere.catapult.cplt-c1	cplt-c1	65	std 260	1 m (20)	1 e	2 e	1 ams 1 e	1 m (20)		4			130 - 315 std 260	4 0 2	120 / 0 16 / 35	2,325 5,804,127	innersphere	12	catapult	normal	260	0	130	315
+innersphere.catapult.cplt-c4	cplt-c4	65	std 260	2 m (20, 10)		2 e	1 ams	2 m (20, 10)		4			130 - 315 std 260	2 0 4	120 / 0 16 / 35	2,350 5,869,247	innersphere	24	catapult	normal	260	0	130	315
+innersphere.catapult.cplt-k2	cplt-k2	65	std 260	1 e	1 b 1 e		1 ams 1 b 1 e	1 e					130 - 315 std 260	4 2 0	110 / 0 16 / 45	2,125 5,304,023	innersphere	19	catapult	normal	260	0	130	315
+innersphere.catapult.jester hero	jester hero	65	std 295	1 e	1 ams 1 e	2 e	1 ams 1 e	1 e		4			130 - 355 std 295	6 0 0	120 / 0 16 / 35	4,875	innersphere	121	catapult	hero	295	0	130	355
+innersphere.centurion.cn9-a	cn9-a	50	std 200		3 m (20x2, 15)	2 e	1 ams	1 b					100 - 275 std 200	2 1 3	100 / 35 25 / 35	1,480 3,697,080	innersphere	7	centurion	normal	200	0	100	275
+innersphere.centurion.cn9-a(c) champion	cn9-a(c) champion	50	std 275		3 m (20x2, 15)	2 e	1 ams	1 b					100 - 275 std 275	2 1 3	100 / 35 25 / 35	1,850	innersphere	102	centurion	champion	275	0	100	275
+innersphere.centurion.cn9-a(ncix) special	cn9-a(ncix) special	50	std 200		3 m (20x3)	2 e	1 ams	1 b					100 - 275 std 200	2 1 3	100 / 35 25 / 35	n/a	innersphere	440	centurion	special	200	0	100	275
+innersphere.centurion.cn9-ah	cn9-ah	50	std 200		3 m (20x2, 15)		1 ams	3 b					100 - 275 std 200	0 3 3	100 / 0 25 / 35	1,505 3,753,086	innersphere	242	centurion	normal	200	0	100	275
+innersphere.centurion.cn9-al	cn9-al	50	std 200		2 m (20x2)	2 e	1 ams	2 e					100 - 275 std 200	4 0 2	100 / 35 25 / 35	1,425 3,552,238	innersphere	28	centurion	normal	200	0	100	275
+innersphere.centurion.cn9-d	cn9-d	50	xl 300		2 m (20x2)	2 e	1 ams	2 b					100 - 390 xl 300	2 2 2	90 / 35 25 / 35	3,265 8,158,590	innersphere	29	centurion	normal	300	0	100	390
+innersphere.centurion.yen-lo-wang hero	yen-lo-wang hero	50	std 215			2 e	1 ams	2 b					100 - 300 std 215	2 2 0	120 / 0 25 / 35	3,750	innersphere	45	centurion	hero	215	0	100	300
+innersphere.champion.chp-1n	chp-1n	60	std 300	1 ams	2 e 2 m (20x2)	2 e	2 b						120 - 360 std 300	4 2 2	100 / 0 20 / 35	n/a	innersphere	740	champion	normal	300	0	120	360
+innersphere.champion.chp-1n2	chp-1n2	60	std 300	1 ams	3 e 2 m (20x2)	2 e	1 b						120 - 360 std 300	5 1 2	100 / 0 20 / 35	n/a	innersphere	743	champion	normal	300	0	120	360
+innersphere.champion.chp-1nb	chp-1nb	60	std 300	1 ams	4 e		4 b						120 - 360 std 300	4 4 0	100 / 0 20 / 35	n/a	innersphere	744	champion	normal	300	0	120	360
+innersphere.champion.chp-2n	chp-2n	60	std 300	1 ams	2 e 1 m (20)	2 e	3 b						120 - 360 std 300	4 3 1	100 / 0 20 / 35	n/a	innersphere	741	champion	normal	300	0	120	360
+innersphere.champion.chp-3n	chp-3n	60	xl 300	1 ams 1 e	2 e 1 m (20)	2 e	1 b	1 e					120 - 360 xl 300	6 1 1	100 / 0 20 / 35	n/a	innersphere	742	champion	normal	300	0	120	360
+innersphere.champion.invictus hero	invictus hero	60	xl 300	1 ams 1 e 1 m (20)	1 m (20)		1 m (20)	1 e 1 m (20)		5			120 - 360 xl 300	2 0 4	100 / 0 20 / 35	n/a	innersphere	745	champion	hero	300	0	120	360
+innersphere.charger.cgr-1a1	cgr-1a1	80	std 400	1 e	2 e		2 e	1 ams 1 e	1 e				200 - 400 std 400	7 0 0	100 / 30 25 / 30	n/a	innersphere	759	charger	normal	400	0	200	400
+innersphere.charger.cgr-1a5	cgr-1a5	80	std 320		3 m (20x3)	1 e	2 b	1 ams	1 e				200 - 385 std 320	2 2 3	100 / 30 25 / 30	n/a	innersphere	760	charger	normal	320	0	200	385
+innersphere.charger.cgr-3k	cgr-3k	80	xl 400	1 e	1 e		1 e 2 m (20x2)	1 ams 1 e		5			200 - 400 xl 400	4 0 2	100 / 30 25 / 30	n/a	innersphere	761	charger	normal	400	0	200	400
+innersphere.charger.number seven hero	number seven hero	80	std 320	1 e	1 e		2 e	1 ams 1 e	1 e	5			200 - 385 std 320	6 0 0	100 / 30 25 / 30	n/a	innersphere	762	charger	hero	320	0	200	385
+innersphere.cicada.cda-2a	cda-2a	40	std 320		2 e	2 e	1 ams 2 e						100 - 340 std 320	6 0 0	125 / 0 30 / 30	1,280 3,194,944	innersphere	37	cicada	normal	320	0	100	340
+innersphere.cicada.cda-2a(c) champion	cda-2a(c) champion	40	xl 340		2 e	2 e	1 ams 2 e						100 - 340 xl 340	6 0 0	125 / 0 30 / 30	1,600	innersphere	134	cicada	champion	340	0	100	340
+innersphere.cicada.cda-2b	cda-2b	40	std 320	2 e		1 e	1 ams	2 e					100 - 340 std 320	5 0 0	125 / 0 30 / 30	1,275 3,182,436	innersphere	38	cicada	normal	320	0	100	340
+innersphere.cicada.cda-3c	cda-3c	40	std 280		2 b		1 ams 2 b 1 e						100 - 340 std 280	1 4 0	125 / 0 30 / 30	1,280 3,193,110	innersphere	39	cicada	normal	280	0	100	340
+innersphere.cicada.cda-3f	cda-3f	40	xl 320		2 e		1 ams 2 e			8			100 - 340 xl 320	4 0 0	125 / 0 30 / 30	3,095 7,733,836	innersphere	428	cicada	normal	320	0	100	340
+innersphere.cicada.cda-3f(l) special	cda-3f(l) special	40	xl 320		2 e		1 ams 2 e			8			100 - 340 xl 320	4 0 0	125 / 0 30 / 30	n/a	innersphere	339	cicada	special	320	0	100	340
+innersphere.cicada.cda-3m	cda-3m	40	xl 320		1 ecm 1 b 1 e	2 e	1 ams 1 e						100 - 340 xl 320	4 1 0	125 / 0 30 / 30	2,840 7,097,444	innersphere	36	cicada	normal	320	0	100	340
+innersphere.cicada.x-5 hero	x-5 hero	40	xl 330	1 e	1 e 1 m (20)		1 e 1 m (20)	1 e					100 - 340 xl 330	4 0 2	125 / 0 30 / 30	3,000	innersphere	64	cicada	hero	330	0	100	340
+innersphere.commando.com-1b	com-1b	25	std 150	1 e		1 m (10)	1 ams	2 e					100 - 240 std 150	3 0 1	90 / 40 20 / 30	680 1,694,542	innersphere	26	commando	normal	150	0	100	240
+innersphere.commando.com-1d	com-1d	25	std 150			2 m (10, 5)	1 ams	2 e					100 - 240 std 150	2 0 2	90 / 40 20 / 30	700 1,744,526	innersphere	27	commando	normal	150	0	100	240
+innersphere.commando.com-1d(c) champion	com-1d(c) champion	25	std 200			2 m (10, 5)	1 ams	2 e					100 - 240 std 200	2 0 2	90 / 40 20 / 30	885	innersphere	397	commando	champion	200	0	100	240
+innersphere.commando.com-2d	com-2d	25	std 150	1 e	1 ecm	1 m (10)	1 ams	2 m (10x2)					100 - 210 std 150	1 0 3	90 / 40 20 / 30	715 1,781,542	innersphere	5	commando	normal	150	0	100	210
+innersphere.commando.com-3a	com-3a	25	std 150	1 e		1 m (10)	1 ams	1 e 1 m (10)					100 - 240 std 150	2 0 2	90 / 40 20 / 30	720 1,799,526	innersphere	6	commando	normal	150	0	100	240
+innersphere.commando.death&#039;s knell hero	death&#039;s knell hero	25	std 175	2 e			1 ams	2 e					100 - 240 std 175	4 0 0	90 / 40 20 / 30	1,875	innersphere	57	commando	hero	175	0	100	240
+innersphere.corsair.broadside hero	broadside hero	95	xl 285	1 b	1 ams 1 b	1 m (10)	1 ams 1 e 1 m (20)	2 e	1 m (5)				200 - 345 xl 285	3 2 3	95 / 25 20 / 25	n/a	innersphere	789	corsair	hero	285	0	200	345
+innersphere.corsair.cor-5r	cor-5r	95	std 285	1 e 1 m (20)	1 ams 2 e	2 e	1 b 1 m (20)						200 - 345 std 285	5 1 2	95 / 12.5 20 / 25	n/a	innersphere	783	corsair	normal	285	0	200	345
+innersphere.corsair.cor-5t	cor-5t	95	std 285	3 b	1 ams 1 e	2 e	1 e	3 b					200 - 345 std 285	4 6 0	95 / 25 20 / 25	n/a	innersphere	786	corsair	normal	285	0	200	345
+innersphere.corsair.cor-6r	cor-6r	95	std 285	1 e 1 m (20)	1 ams 1 b 1 m (20)	1 e	1 b 1 m (20)	1 e					200 - 345 std 285	3 2 3	95 / 12.5 20 / 25	n/a	innersphere	784	corsair	normal	285	0	200	345
+innersphere.corsair.cor-7a	cor-7a	95	std 285	1 ams 2 b	1 ams 2 e		1 ams 1 b	1 ams 2 e					200 - 345 std 285	4 3 0	95 / 0 20 / 25	n/a	innersphere	785	corsair	normal	285	0	200	345
+innersphere.corsair.cor-7r	cor-7r	95	std 285	1 m (20)	1 ams 1 m (20)	2 m (10, 5)	1 b	2 e	1 m (5)				200 - 345 std 285	2 1 5	95 / 0 20 / 25	n/a	innersphere	787	corsair	normal	285	0	200	345
+innersphere.corsair.ravager hero	ravager hero	95	xl 285	1 b 1 e	1 ams 1 e	1 e	1 b	2 e	1 e				200 - 345 xl 285	6 2 0	95 / 12.5 20 / 25	n/a	innersphere	788	corsair	hero	285	0	200	345
+innersphere.crab.crb-20	crb-20	50	std 250	1 e		2 e	1 ams	1 e	1 e				100 - 350 std 250	5 0 0	115 / 35 25 / 30	1,485 3,703,201	innersphere	331	crab	normal	250	0	100	350
+innersphere.crab.crb-27	crb-27	50	std 250	1 e	1 ams	2 e	1 ams	1 e	1 e				100 - 325 std 250	5 0 0	115 / 35 25 / 30	1,520 3,792,733	innersphere	330	crab	normal	250	0	100	325
+innersphere.crab.crb-27b	crb-27b	50	std 250	2 e		1 e	1 ams	2 e	1 e				100 - 325 std 250	6 0 0	115 / 35 25 / 30	1,700 4,240,733	innersphere	332	crab	normal	250	0	100	325
+innersphere.crab.crb-27b(c) champion	crb-27b(c) champion	50	xl 280	2 e		1 e	1 ams	2 e	1 e				100 - 325 xl 280	6 0 0	115 / 35 25 / 30	2,125	innersphere	449	crab	champion	280	0	100	325
+innersphere.crab.crb-27sl	crb-27sl	50	xl 250	1 e		2 e	1 ams	1 e	1 e	5			100 - 325 xl 250	5 0 0	115 / 35 25 / 30	2,860 7,144,233	innersphere	333	crab	normal	250	0	100	325
+innersphere.crab.florentine hero	florentine hero	50	xl 250	1 b	2 m (20x2)		1 ams 2 e	1 b					100 - 325 xl 250	2 2 2	115 / 35 25 / 30	n/a	innersphere	551	crab	hero	250	0	100	325
+innersphere.cyclops.cp-10-q	cp-10-q	90	std 360	1 e	1 ams 3 m (20x2, 15)	1 m (10)	1 e 3 m (20x2, 15)	1 e					180 - 400 std 360	3 0 7	80 / 20 20 / 30	3,255 8,123,100	innersphere	435	cyclops	normal	360	0	180	400
+innersphere.cyclops.cp-10-z	cp-10-z	90	std 360	3 e	1 ams 1 m (20)	1 m (10)	1 b	3 e					180 - 400 std 360	6 1 2	80 / 20 20 / 30	3,330 8,322,820	innersphere	436	cyclops	normal	360	0	180	400
+innersphere.cyclops.cp-11-a	cp-11-a	90	std 360	1 e	1 ams 2 m (20x2)	1 m (10)	3 b	2 e					180 - 400 std 360	3 3 3	80 / 20 20 / 30	3,345 8,352,868	innersphere	434	cyclops	normal	360	0	180	400
+innersphere.cyclops.cp-11-a-dc	cp-11-a-dc	90	std 360	1 e	1 ams 3 m (20x2, 15)	1 m (10)	1 ams 2 b	1 e					180 - 400 std 360	2 2 4	80 / 20 20 / 30	3,720 9,298,808	innersphere	437	cyclops	normal	360	0	180	400
+innersphere.cyclops.cp-11-p	cp-11-p	90	std 360	2 e	1 ecm 1 ams 1 m (20)	1 m (10)	2 b	2 e					180 - 400 std 360	4 2 2	80 / 20 20 / 30	3,530 8,814,706	innersphere	438	cyclops	normal	360	0	180	400
+innersphere.cyclops.sleipnir hero	sleipnir hero	90	xl 360	1 e	1 ams 2 b	1 m (10)	2 b	2 e	1 e				180 - 400 xl 360	4 4 1	80 / 20 20 / 30	6,750	innersphere	439	cyclops	hero	360	0	180	400
+innersphere.dervish.dv-6m	dv-6m	55	std 275	2 e 1 m (20)	1 m (20)	1 ams	1 m (20)	2 e 1 m (20)		5			110 - 360 std 275	4 0 4	130 / 20 20 / 20	n/a	innersphere	809	dervish	normal	275	0	110	360
+innersphere.dervish.dv-6mr	dv-6mr	55	std 275	3 e	1 m (20)	1 ams	1 m (20)	3 e		5			110 - 360 std 275	6 0 2	130 / 20 20 / 20	n/a	innersphere	812	dervish	normal	275	0	110	360
+innersphere.dervish.dv-7d	dv-7d	55	std 275	1 e 2 m (20x2)	1 m (20)	1 ams	1 m (20)	1 e 2 m (20x2)		5			110 - 360 std 275	2 0 6	130 / 20 20 / 20	n/a	innersphere	810	dervish	normal	275	0	110	360
+innersphere.dervish.dv-7p	dv-7p	55	xl 275	1 e 2 m (20x2)	1 e	1 ams	1 e	1 e 2 m (20x2)		5			110 - 360 xl 275	4 0 4	130 / 20 20 / 20	n/a	innersphere	813	dervish	normal	275	0	110	360
+innersphere.dervish.dv-8d	dv-8d	55	xl 275	2 e	2 m (20x2)	1 ams	2 m (20x2)	2 e		5			110 - 360 xl 275	4 0 4	130 / 20 20 / 20	n/a	innersphere	811	dervish	normal	275	0	110	360
+innersphere.dervish.frenzy hero	frenzy hero	55	xl 275	2 m (20x2)	2 m (20x2)	1 ams	2 m (20x2)	2 m (20x2)		5			110 - 360 xl 275	0 0 8	130 / 20 20 / 20	n/a	innersphere	814	dervish	hero	275	0	110	360
+innersphere.dragon.drg-1c	drg-1c	60	std 300	2 e	2 e	1 m (10)	1 ams	1 b					120 - 360 std 300	4 1 1	90 / 40 20 / 30	1,900 4,745,200	innersphere	11	dragon	normal	300	0	120	360
+innersphere.dragon.drg-1n	drg-1n	60	std 300	1 e	1 e	2 m (10, 5)	1 ams	2 b					120 - 360 std 300	2 2 2	90 / 40 20 / 30	1,935 4,827,559	innersphere	10	dragon	normal	300	0	120	360
+innersphere.dragon.drg-5n	drg-5n	60	std 300	2 e		1 m (10)	1 ams	3 b					120 - 360 std 300	2 3 1	90 / 40 20 / 30	2,040 5,097,559	innersphere	23	dragon	normal	300	0	120	360
+innersphere.dragon.drg-5n(c) champion	drg-5n(c) champion	60	xl 300	2 e		1 m (10)	1 ams	3 b					120 - 360 xl 300	2 3 1	90 / 40 20 / 30	2,550	innersphere	74	dragon	champion	300	0	120	360
+innersphere.dragon.fang hero	fang hero	60	std 300	2 e	1 e	1 m (6)	1 ams	2 b					120 - 360 std 300	3 2 1	90 / 40 20 / 30	4,500	innersphere	55	dragon	hero	300	0	120	360
+innersphere.dragon.flame hero	flame hero	60	std 300	2 e	1 b	1 m (5)	1 ams	2 e					120 - 360 std 300	4 1 1	90 / 40 20 / 30	4,500	innersphere	56	dragon	hero	300	0	120	360
+innersphere.enforcer.enf-4p	enf-4p	50	std 250	2 e	2 e		1 ams	2 b					100 - 350 std 250	4 2 0	125 / 10 20 / 30	1,635 4,080,698	innersphere	313	enforcer	normal	250	0	100	350
+innersphere.enforcer.enf-4r	enf-4r	50	std 200	3 e	2 e		1 ams	1 b		4			100 - 260 std 200	5 1 0	125 / 35 20 / 30	1,530 3,818,468	innersphere	249	enforcer	normal	200	0	100	260
+innersphere.enforcer.enf-4r(c) champion	enf-4r(c) champion	50	xl 255	3 e	2 e		1 ams	1 b		4			100 - 260 xl 255	5 1 0	125 / 35 20 / 30	1,915	innersphere	317	enforcer	champion	255	0	100	260
+innersphere.enforcer.enf-5d	enf-5d	50	xl 250	1 e	2 e		1 ams	2 b		5			100 - 325 xl 250	3 2 0	125 / 35 20 / 30	3,030 7,566,723	innersphere	248	enforcer	normal	250	0	100	325
+innersphere.enforcer.enf-5p	enf-5p	50	xl 250	2 b	1 e		1 ams	2 b		2			100 - 325 xl 250	1 4 0	125 / 35 20 / 30	2,700 6,743,201	innersphere	250	enforcer	normal	250	0	100	325
+innersphere.enforcer.ghillie hero	ghillie hero	50	xl 250	2 e	2 e		1 ecm 1 ams	1 b		5			100 - 300 xl 250	4 1 0	125 / 35 20 / 30	n/a	innersphere	552	enforcer	hero	250	0	100	300
+innersphere.fafnir.fnr-5	fnr-5	100	std 300	1 e	1 ams 2 b	1 ecm	2 b	1 e	1 e				200 - 325 std 300	3 4 0	100 / 0 20 / 30	n/a	innersphere	684	fafnir	normal	300	0	200	325
+innersphere.fafnir.fnr-5b	fnr-5b	100	std 300	2 e	1 ams 1 b	1 ecm	1 b	2 e	1 e				200 - 325 std 300	5 2 0	100 / 0 20 / 30	n/a	innersphere	685	fafnir	normal	300	0	200	325
+innersphere.fafnir.fnr-5e	fnr-5e	100	std 300	2 m (20x2)	2 b		2 b	2 m (20x2)	1 ams				200 - 325 std 300	0 4 4	100 / 0 20 / 30	n/a	innersphere	687	fafnir	normal	300	0	200	325
+innersphere.fafnir.fnr-6r	fnr-6r	100	std 300	1 e 1 m (20)	1 b 1 e		1 b 1 e	1 e 1 m (20)	1 ams				200 - 325 std 300	4 2 2	100 / 0 20 / 30	n/a	innersphere	688	fafnir	normal	300	0	200	325
+innersphere.fafnir.fnr-6u	fnr-6u	100	std 300	2 b	2 e		2 e	2 b	1 ams				200 - 325 std 300	4 4 0	100 / 0 20 / 30	n/a	innersphere	686	fafnir	normal	300	0	200	325
+innersphere.fafnir.wrath hero	wrath hero	100	std 300	1 e 1 m (20)	1 ams 2 e 2 m (20x2)	1 ecm	1 b	1 e 1 m (20)	1 e				200 - 325 std 300	5 1 4	100 / 0 20 / 30	n/a	innersphere	689	fafnir	hero	300	0	200	325
+innersphere.firestarter.ember hero	ember hero	35	std 210	2 e	2 b		1 ams 2 b	2 e		6			100 - 295 std 210	4 4 0	100 / 25 15 / 30	2,625	innersphere	137	firestarter	hero	210	0	100	295
+innersphere.firestarter.firestorm hero	firestorm hero	35	std 210	2 b	1 e	2 e	1 ams 1 e	2 b		6			100 - 295 std 210	4 4 0	100 / 25 15 / 30	n/a	innersphere	691	firestarter	hero	210	0	100	295
+innersphere.firestarter.fs9-a	fs9-a	35	std 210	2 e	1 e	2 e	1 ams 1 e	2 e		6			100 - 295 std 210	8 0 0	100 / 25 15 / 30	1,065 2,662,358	innersphere	139	firestarter	normal	210	0	100	295
+innersphere.firestarter.fs9-h	fs9-h	35	std 210	2 e	1 b	2 e	1 ams 1 b	2 e		6			100 - 295 std 210	6 2 0	100 / 25 15 / 30	1,055 2,629,342	innersphere	140	firestarter	normal	210	0	100	295
+innersphere.firestarter.fs9-k	fs9-k	35	std 210	3 e		2 e	1 ams	3 e		6			100 - 295 std 210	8 0 0	100 / 25 15 / 30	1,065 2,662,342	innersphere	141	firestarter	normal	210	0	100	295
+innersphere.firestarter.fs9-s	fs9-s	35	std 210	2 e	1 ams	2 e	1 ams 1 e	2 e		6			100 - 295 std 210	7 0 0	100 / 25 15 / 30	1,295 3,231,842	innersphere	138	firestarter	normal	210	0	100	295
+innersphere.firestarter.fs9-s(c) champion	fs9-s(c) champion	35	xl 295	2 e	1 ams	2 e	1 ams 1 e	2 e		6			100 - 295 xl 295	7 0 0	100 / 25 15 / 30	1,620	innersphere	160	firestarter	champion	295	0	100	295
+innersphere.flea.fle-15	fle-15	20	std 120	1 b 1 e	1 ams 1 e	1 e	1 e	1 b 1 e					100 - 170 std 120	5 2 0	120 / 0 20 / 60	n/a	innersphere	713	flea	normal	120	0	100	170
+innersphere.flea.fle-17	fle-17	20	std 120	2 e	1 ams 1 e	1 e	1 e	2 e					100 - 170 std 120	7 0 0	120 / 0 20 / 60	n/a	innersphere	712	flea	normal	120	0	100	170
+innersphere.flea.fle-19	fle-19	20	std 120	4 b	1 ams	1 e	1 m (10)	4 b					100 - 170 std 120	1 8 1	120 / 0 20 / 60	n/a	innersphere	714	flea	normal	120	0	100	170
+innersphere.flea.fle-20	fle-20	20	std 120	2 e	1 ams 1 e		1 ecm	2 e					100 - 170 std 120	5 0 0	120 / 0 20 / 60	n/a	innersphere	715	flea	normal	120	0	100	170
+innersphere.flea.fle-fa	fle-fa	20	std 120	3 b	1 ams 1 e		1 e	3 b	1 e				100 - 170 std 120	3 6 0	120 / 0 20 / 60	n/a	innersphere	716	flea	normal	120	0	100	170
+innersphere.flea.romeo 5000 hero	romeo 5000 hero	20	std 120	2 e	1 ams 1 m (10)	1 e	1 m (10)	2 e					100 - 170 std 120	5 0 2	120 / 0 20 / 60	n/a	innersphere	717	flea	hero	120	0	100	170
+innersphere.grasshopper.ghr-5h	ghr-5h	70	std 280	1 e	1 ams 2 e	1 e	2 e	1 e	1 m (5)	4			140 - 340 std 280	7 0 1	120 / 30 20 / 30	2,365 5,911,055	innersphere	254	grasshopper	normal	280	0	140	340
+innersphere.grasshopper.ghr-5h(c) champion	ghr-5h(c) champion	70	xl 340	1 e	1 ams 2 e	1 e	2 e	1 e	1 m (5)	4			140 - 340 xl 340	7 0 1	120 / 30 20 / 30	2,960	innersphere	450	grasshopper	champion	340	0	140	340
+innersphere.grasshopper.ghr-5j	ghr-5j	70	std 280	2 e	1 ams	2 e	1 ams	2 e	1 m (5)	6			140 - 365 std 280	6 0 1	120 / 30 20 / 30	2,485 6,200,995	innersphere	253	grasshopper	normal	280	0	140	365
+innersphere.grasshopper.ghr-5n	ghr-5n	70	std 280	2 e	1 ams 1 e		2 e	2 e	1 e	4			140 - 340 std 280	8 0 0	120 / 30 20 / 30	2,445 6,100,995	innersphere	255	grasshopper	normal	280	0	140	340
+innersphere.grasshopper.ghr-5p	ghr-5p	70	std 280		1 ams 3 e	1 e	3 e		1 e	4			140 - 340 std 280	8 0 0	120 / 30 20 / 30	2,620 6,542,003	innersphere	314	grasshopper	normal	280	0	140	340
+innersphere.grasshopper.mjlnir hero	mjlnir hero	70	xl 280	1 b	1 ams 2 e	1 e	2 e	2 e		4			140 - 340 xl 280	7 1 0	120 / 30 20 / 30	n/a	innersphere	553	grasshopper	hero	280	0	140	340
+innersphere.griffin.ares hero	ares hero	55	std 275	2 e	1 ams		2 m (20, 10)	2 e		7			110 - 360 std 275	4 0 2	130 / 35 25 / 30	n/a	innersphere	692	griffin	hero	275	0	110	360
+innersphere.griffin.grf-1n	grf-1n	55	std 275		1 ams		3 m (20, 10x2)	3 e		7			110 - 360 std 275	3 0 3	130 / 35 25 / 30	1,880 4,696,843	innersphere	126	griffin	normal	275	0	110	360
+innersphere.griffin.grf-1s	grf-1s	55	std 275		2 m (20, 10)		1 ams	4 e		7			110 - 360 std 275	4 0 2	130 / 35 25 / 30	1,795 4,486,783	innersphere	127	griffin	normal	275	0	110	360
+innersphere.griffin.grf-1s(c) champion	grf-1s(c) champion	55	xl 325		2 m (20, 10)		1 ams	4 e		7			110 - 360 xl 325	4 0 2	130 / 35 25 / 30	2,245	innersphere	272	griffin	champion	325	0	110	360
+innersphere.griffin.grf-2n	grf-2n	55	std 275		1 ecm 2 m (20, 10)		1 ams 2 m (20, 10)	2 e		5			110 - 360 std 275	2 0 4	130 / 35 25 / 30	2,250 5,619,335	innersphere	300	griffin	normal	275	0	110	360
+innersphere.griffin.grf-3m	grf-3m	55	xl 275		1 ams 1 e		4 m (20, 10x3)	1 e		7			110 - 360 xl 275	2 0 4	130 / 35 25 / 30	3,315 8,277,351	innersphere	128	griffin	normal	275	0	110	360
+innersphere.griffin.grf-5m	grf-5m	55	xl 275		1 ams 2 e		2 m (20, 10)	4 b		7			110 - 360 xl 275	2 4 2	130 / 35 25 / 30	n/a	innersphere	670	griffin	normal	275	0	110	360
+innersphere.griffin.grf-5m(l) special	grf-5m(l) special	55	xl 275		1 ams 2 e		2 m (20, 10)	4 b		7			110 - 360 xl 275	2 4 2	130 / 35 25 / 30	n/a	innersphere	644	griffin	special	275	0	110	360
+innersphere.griffin.sparky hero	sparky hero	55	std 275	2 e	1 ams 1 e		1 e	2 e		7			110 - 360 std 275	6 0 0	130 / 35 25 / 30	4,125	innersphere	210	griffin	hero	275	0	110	360
+innersphere.hatamotochi.hatamoto-ku htm-27w	hatamoto-ku htm-27w	80	std 320	2 e			3 b	1 ams 2 e					200 - 385 std 320	4 3 0	100 / 30 25 / 30	n/a	innersphere	765	hatamotochi	normal	320	0	200	385
+innersphere.hatamotochi.htm-27t	htm-27t	80	std 320	2 e	2 m (20x2)		2 m (20x2)	1 ams 1 e					200 - 385 std 320	3 0 4	100 / 30 25 / 30	n/a	innersphere	764	hatamotochi	normal	320	0	200	385
+innersphere.hatamotochi.htm-28tr	htm-28tr	80	std 240	2 e	1 ecm 1 m (20)		1 m (20)	1 ams 2 e		3			200 - 290 std 240	4 0 2	100 / 30 25 / 30	n/a	innersphere	766	hatamotochi	normal	240	0	200	290
+innersphere.hatamotochi.shugo hero	shugo hero	80	std 240	2 b	2 m (20x2)		2 m (20x2)	1 ams 2 b					200 - 290 std 240	0 4 4	100 / 30 25 / 30	n/a	innersphere	767	hatamotochi	hero	240	0	200	290
+innersphere.hellspawn.hsn-7d	hsn-7d	45	xl 270	2 e	1 m (20)	1 ecm	1 ams 1 e	1 e 1 m (20)		6			100 - 355 xl 270	4 0 2	110 / 30 25 / 30	n/a	innersphere	649	hellspawn	normal	270	0	100	355
+innersphere.hellspawn.hsn-7p special	hsn-7p special	45	xl 270	1 e	2 m (20x2)	1 e	1 ams 2 e	1 e					100 - 355 xl 270	5 0 2	110 / 30 25 / 30	n/a	innersphere	652	hellspawn	special	270	0	100	355
+innersphere.hellspawn.hsn-8e	hsn-8e	45	xl 270	1 e	2 m (20x2)	1 ecm	1 ams 1 e	1 e 1 m (20)		6			100 - 355 xl 270	3 0 3	110 / 30 25 / 30	n/a	innersphere	650	hellspawn	normal	270	0	100	355
+innersphere.hellspawn.hsn-8p special	hsn-8p special	45	xl 270	2 m (20x2)	1 m (20)		1 ams 2 e	2 m (20x2)		6			100 - 355 xl 270	2 0 5	110 / 30 25 / 30	n/a	innersphere	653	hellspawn	special	270	0	100	355
+innersphere.hellspawn.hsn-9f special	hsn-9f special	45	xl 270	2 e	2 m (20x2)		1 ams	1 e 2 m (20x2)		6			100 - 355 xl 270	3 0 4	110 / 30 25 / 30	n/a	innersphere	651	hellspawn	special	270	0	100	355
+innersphere.hellspawn.paralyzer hero	paralyzer hero	45	xl 270	2 e 1 m (20)	1 e	1 ecm	1 ams 1 e	2 e 1 m (20)		6			100 - 355 xl 270	6 0 2	110 / 30 25 / 30	n/a	innersphere	654	hellspawn	hero	270	0	100	355
+innersphere.highlander.heavy metal hero	heavy metal hero	90	xl 275	3 e	1 ams 2 m (20, 10)			2 b		5			180 - 330 xl 275	3 2 2	90 / 20 20 / 30	6,750	innersphere	69	highlander	hero	275	0	180	330
+innersphere.highlander.hgn-732	hgn-732	90	std 270	2 m (10x2)	1 ams 1 m (20)		3 e	1 b		3			180 - 325 std 270	3 1 3	90 / 20 20 / 30	3,615 9,032,840	innersphere	70	highlander	normal	270	0	180	325
+innersphere.highlander.hgn-732b	hgn-732b	90	std 270	1 m (10)	1 ams 1 m (20)		3 e	2 b		3			180 - 325 std 270	3 2 2	90 / 20 20 / 30	3,750 9,364,960	innersphere	301	highlander	normal	270	0	180	325
+innersphere.highlander.hgn-733	hgn-733	90	std 270	2 m (10x2)	1 ams 2 m (20, 10)		2 e	1 b		3			180 - 325 std 270	2 1 4	90 / 20 20 / 30	3,405 8,504,422	innersphere	71	highlander	normal	270	0	180	325
+innersphere.highlander.hgn-733c	hgn-733c	90	std 270	1 m (10)	1 ams 2 m (20, 10)		2 e	2 b		4			180 - 325 std 270	2 2 3	90 / 10 20 / 30	3,465 8,655,368	innersphere	72	highlander	normal	270	0	180	325
+innersphere.highlander.hgn-733c(c) champion	hgn-733c(c) champion	90	std 325	1 m (10)	1 ams 2 m (20, 10)		2 e	2 b		4			180 - 325 std 325	2 2 3	90 / 10 20 / 30	4,335	innersphere	124	highlander	champion	325	0	180	325
+innersphere.highlander.hgn-733p	hgn-733p	90	std 270	1 m (10)	1 ams 2 m (20, 10)		2 e	2 e		3			180 - 325 std 270	4 0 3	90 / 20 20 / 30	3,410 8,520,422	innersphere	73	highlander	normal	270	0	180	325
+innersphere.hunchback.grid iron hero	grid iron hero	50	xl 200	1 e	1 ams 1 m (10)		2 b	1 e	1 e				100 - 275 xl 200	3 2 1	125 / 40 25 / 35	3,750	innersphere	133	hunchback	hero	200	0	100	275
+innersphere.hunchback.hbk-4g	hbk-4g	50	std 200	1 e	1 ams		3 b	1 e	1 e				100 - 275 std 200	3 3 0	125 / 40 25 / 35	1,480 3,694,490	innersphere	1	hunchback	normal	200	0	100	275
+innersphere.hunchback.hbk-4h	hbk-4h	50	std 200	1 e	1 ams		1 b 2 e	1 e	1 e				100 - 275 std 200	5 1 0	125 / 40 20 / 35	1,460 3,646,484	innersphere	9	hunchback	normal	200	0	100	275
+innersphere.hunchback.hbk-4j	hbk-4j	50	std 200	1 e	1 ams		3 e 2 m (10x2)	1 e	1 e				100 - 275 std 200	6 0 2	125 / 40 20 / 35	1,515 3,778,604	innersphere	21	hunchback	normal	200	0	100	275
+innersphere.hunchback.hbk-4p	hbk-4p	50	std 200	1 e	1 ams		6 e	1 e	1 e				100 - 275 std 200	9 0 0	125 / 40 20 / 35	1,440 3,594,484	innersphere	2	hunchback	normal	200	0	100	275
+innersphere.hunchback.hbk-4p(c) champion	hbk-4p(c) champion	50	std 275	1 e	1 ams		6 e	1 e	1 e				100 - 275 std 275	9 0 0	125 / 40 20 / 35	1,800	innersphere	85	hunchback	champion	275	0	100	275
+innersphere.hunchback.hbk-4sp	hbk-4sp	50	std 200	2 e	1 ams 1 m (10)		1 m (10)	2 e	1 e				100 - 275 std 200	5 0 2	125 / 40 20 / 35	1,455 3,632,484	innersphere	22	hunchback	normal	200	0	100	275
+innersphere.jagermech.firebrand hero	firebrand hero	65	xl 280	1 b 1 e	1 ams 2 e		2 e	1 b 1 e					130 - 340 xl 280	6 2 0	100 / 0 20 / 35	4,875	innersphere	81	jagermech	hero	280	0	130	340
+innersphere.jagermech.jm6-a	jm6-a	65	std 260	1 b 2 m (20x2)	1 ams 1 e		1 e	1 b 2 m (20x2)					130 - 315 std 260	2 2 4	90 / 0 20 / 35	2,190 5,473,070	innersphere	66	jagermech	normal	260	0	130	315
+innersphere.jagermech.jm6-a(c) champion	jm6-a(c) champion	65	xl 265	1 b 2 m (20x2)	1 ams 1 e		1 e	1 b 2 m (20x2)					130 - 315 xl 265	2 2 4	90 / 0 20 / 35	2,740	innersphere	278	jagermech	champion	265	0	130	315
+innersphere.jagermech.jm6-dd	jm6-dd	65	xl 260	3 b	1 ams 1 e		1 e	3 b					130 - 315 xl 260	2 6 0	110 / 0 20 / 35	3,410 8,513,253	innersphere	65	jagermech	normal	260	0	130	315
+innersphere.jagermech.jm6-s	jm6-s	65	std 260	2 b	1 ams 2 e		2 e	2 b					130 - 315 std 260	4 4 0	110 / 0 20 / 35	2,085 5,201,918	innersphere	67	jagermech	normal	260	0	130	315
+innersphere.javelin.hi there! hero	hi there! hero	30	xl 180	2 e	1 m (10)	1 ams	1 m (10)	2 e		6			100 - 255 xl 180	4 0 2	90 / 35 20 / 25	2,250	innersphere	547	javelin	hero	180	0	100	255
+innersphere.javelin.jvn-10f	jvn-10f	30	std 180		1 ams 2 e		1 ams 2 e			8			100 - 285 std 180	4 0 0	110 / 35 20 / 25	950	innersphere	543	javelin	normal	180	0	100	285
+innersphere.javelin.jvn-10n	jvn-10n	30	std 180		1 ams 2 m (10x2)		1 ams 2 m (10x2)			8			100 - 285 std 180	0 0 4	110 / 35 20 / 25	950	innersphere	542	javelin	normal	180	0	100	285
+innersphere.javelin.jvn-10p	jvn-10p	30	std 180		3 m (10x2, 6)	1 ams	3 m (10x2, 6)			6			100 - 255 std 180	0 0 6	90 / 35 20 / 25	925	innersphere	544	javelin	normal	180	0	100	255
+innersphere.javelin.jvn-11a	jvn-11a	30	std 180		2 e	1 ams	2 e	3 e		6			100 - 255 std 180	7 0 0	90 / 35 20 / 25	1,060	innersphere	545	javelin	normal	180	0	100	255
+innersphere.javelin.jvn-11b	jvn-11b	30	std 180		1 ecm 2 m (10x2)	1 ams	2 m (10x2)						100 - 255 std 180	0 0 4	110 / 35 20 / 25	1,250	innersphere	546	javelin	normal	180	0	100	255
+innersphere.javelin.jvn-11f	jvn-11f	30	xl 180	3 b		1 ams	2 e	3 b		6			100 - 255 xl 180	2 6 0	110 / 35 20 / 25	n/a	innersphere	776	javelin	normal	180	0	100	255
+innersphere.jenner.jr7-d	jr7-d	35	std 245	2 e	1 ams	2 m (10, 5)		2 e		5			100 - 300 std 245	4 0 2	120 / 0 20 / 30	1,205 3,010,018	innersphere	3	jenner	normal	245	0	100	300
+innersphere.jenner.jr7-d(s) sarah	jr7-d(s) sarah	35	xl 300	2 e	1 ams	2 m (10, 5)		2 e		5			100 - 300 xl 300	4 0 2	120 / 0 20 / 30		innersphere	86	jenner	sarah	300	0	100	300
+innersphere.jenner.jr7-f	jr7-f	35	std 245	3 e	1 ams			3 e		5			100 - 300 std 245	6 0 0	120 / 0 20 / 30	1,160 2,893,066	innersphere	4	jenner	normal	245	0	100	300
+innersphere.jenner.jr7-f(c) champion	jr7-f(c) champion	35	xl 300	3 e	1 ams			3 e		5			100 - 300 xl 300	6 0 0	120 / 0 20 / 30	1,450	innersphere	76	jenner	champion	300	0	100	300
+innersphere.jenner.jr7-k	jr7-k	35	std 245	2 e	1 ams	1 m (10)		2 e		5			100 - 300 std 245	4 0 1	120 / 0 20 / 30	1,260 3,139,704	innersphere	20	jenner	normal	245	0	100	300
+innersphere.jenner.oxide hero	oxide hero	35	std 235	1 m (10)	1 ams	2 m (10, 5)		1 m (10)					100 - 300 std 235	0 0 4	120 / 0 20 / 30	2,625	innersphere	123	jenner	hero	235	0	100	300
+innersphere.kingcrab.kaiju hero	kaiju hero	100	std 300	3 e	2 m (20x2)	1 ams	2 b	3 e					200 - 360 std 300	6 2 2	100 / 0 25 / 30	n/a	innersphere	557	kingcrab	hero	300	0	200	360
+innersphere.kingcrab.kgc-000	kgc-000	100	std 300	3 b	2 m (20x2)	1 ams	2 e	3 b					200 - 360 std 300	2 6 2	100 / 0 25 / 30	4,040 10,097,884	innersphere	238	kingcrab	normal	300	0	200	360
+innersphere.kingcrab.kgc-0000	kgc-0000	100	std 300	1 b	4 m (20x2, 15x2)	1 ams	4 e	1 b					200 - 360 std 300	4 2 4	100 / 0 25 / 30	3,900 9,748,980	innersphere	239	kingcrab	normal	300	0	200	360
+innersphere.kingcrab.kgc-000b	kgc-000b	100	std 300	2 b	3 m (20x2, 15)	1 ams	3 e	2 b					200 - 360 std 300	3 4 3	100 / 0 25 / 30	4,105 10,251,950	innersphere	240	kingcrab	normal	300	0	200	360
+innersphere.kingcrab.kgc-000b(c) champion	kgc-000b(c) champion	100	std 310	2 b	3 m (20x2, 15)	1 ams	3 e	2 b					200 - 360 std 310	3 4 3	100 / 0 25 / 30	5,135	innersphere	349	kingcrab	champion	310	0	200	360
+innersphere.kintaro.golden boy hero	golden boy hero	55	xl 220	1 e 2 m (20, 15)	1 ams	2 m (10, 5)	1 m (20)	2 e					110 - 290 xl 220	3 0 5	90 / 20 30 / 30	4,125	innersphere	93	kintaro	hero	220	0	110	290
+innersphere.kintaro.kto-18	kto-18	55	std 275	1 e 2 m (20, 15)	1 ams	1 m (10)	2 m (20x2)	1 e					110 - 360 std 275	2 0 5	90 / 20 30 / 30	1,790 4,474,807	innersphere	95	kintaro	normal	275	0	110	360
+innersphere.kintaro.kto-18(c) champion	kto-18(c) champion	55	xl 300	1 e 2 m (20, 15)	1 ams	1 m (10)	2 m (20x2)	1 e					110 - 360 xl 300	2 0 5	90 / 20 30 / 30	2,240	innersphere	202	kintaro	champion	300	0	110	360
+innersphere.kintaro.kto-19	kto-19	55	std 275	1 e 2 m (20, 15)	1 ams	1 m (10)	1 m (20)	2 e					110 - 360 std 275	3 0 4	90 / 20 30 / 30	1,840 4,589,395	innersphere	96	kintaro	normal	275	0	110	360
+innersphere.kintaro.kto-20	kto-20	55	std 275	1 m (20)	1 ams	2 e	2 m (20x2)	2 e					110 - 360 std 275	4 0 3	90 / 20 30 / 30	1,880 4,697,395	innersphere	94	kintaro	normal	275	0	110	360
+innersphere.locust.lct-1e	lct-1e	20	std 160	3 e			1 ams	3 e					100 - 190 std 160	6 0 0	120 / 0 20 / 60	600 1,491,242	innersphere	151	locust	normal	160	0	100	190
+innersphere.locust.lct-1e(c) champion	lct-1e(c) champion	20	xl 190	3 e			1 ams	3 e					100 - 190 xl 190	6 0 0	120 / 0 20 / 60	760	innersphere	396	locust	champion	190	0	100	190
+innersphere.locust.lct-1m	lct-1m	20	std 160	1 m (6)		2 e	1 ams	1 m (6)					100 - 190 std 160	2 0 2	130 / 0 20 / 60	595 1,486,254	innersphere	152	locust	normal	160	0	100	190
+innersphere.locust.lct-1v	lct-1v	20	std 160	2 b		1 e	1 ams	2 b					100 - 190 std 160	1 4 0	130 / 0 20 / 60	560 1,388,242	innersphere	106	locust	normal	160	0	100	190
+innersphere.locust.lct-3m	lct-3m	20	std 160	1 ams 2 e		1 e	1 ams	2 e					100 - 190 std 160	5 0 0	120 / 0 20 / 60	715 1,777,326	innersphere	107	locust	normal	160	0	100	190
+innersphere.locust.lct-3s	lct-3s	20	std 160	2 m (6x2)		1 e	1 ams	2 m (6x2)					100 - 190 std 160	1 0 4	130 / 0 20 / 60	640 1,589,282	innersphere	108	locust	normal	160	0	100	190
+innersphere.locust.lct-3v	lct-3v	20	std 160	1 b		2 e	1 ams	1 b					100 - 190 std 160	2 2 0	130 / 0 20 / 60	595 1,478,234	innersphere	302	locust	normal	160	0	100	190
+innersphere.locust.pirates&#039; bane hero	pirates&#039; bane hero	20	xl 190		1 ecm 2 e	2 b	1 ams 2 e						100 - 190 xl 190	4 2 0	120 / 0 20 / 60	1,500	innersphere	222	locust	hero	190	0	100	190
+innersphere.marauder.bounty hunter ii hero	bounty hunter ii hero	75	xl 225	3 e	1 ams		1 b	3 e	1 e	4			150 - 300 xl 225	7 1 0	95 / 0 20 / 40	5,625	innersphere	348	marauder	hero	225	0	150	300
+innersphere.marauder.mad-3r	mad-3r	75	std 300	2 e	1 ams		3 b	2 e					150 - 360 std 300	4 3 0	85 / 20 20 / 30	2,640 6,590,643	innersphere	345	marauder	normal	300	0	150	360
+innersphere.marauder.mad-5d	mad-5d	75	xl 300	2 e	1 ams 2 m (20x2)		1 e	2 e		4			150 - 360 xl 300	5 0 2	85 / 20 20 / 30	4,370 10,915,183	innersphere	346	marauder	normal	300	0	150	360
+innersphere.marauder.mad-5m	mad-5m	75	xl 300	3 e	1 ams		2 b	2 e		4			150 - 360 xl 300	5 2 0	85 / 20 20 / 30	4,315 10,776,138	innersphere	347	marauder	normal	300	0	150	360
+innersphere.marauderii.alpha hero	alpha hero	100	xl 300	2 b	2 m (20x2)	1 ams	2 e	2 b		3			200 - 360 xl 300	2 4 2	70 / 20 20 / 30	n/a	innersphere	796	marauderii	hero	300	0	200	360
+innersphere.marauderii.mad-4a	mad-4a	100	std 300	3 e	1 ams		3 e	2 e		3			200 - 360 std 300	8 0 0	70 / 20 20 / 30	n/a	innersphere	791	marauderii	normal	300	0	200	360
+innersphere.marauderii.mad-4hp	mad-4hp	100	std 300	2 e	4 m (20x4)	1 ams	4 m (20x4)	2 e	1 m (5)	3			200 - 360 std 300	4 0 9	70 / 20 20 / 30	n/a	innersphere	792	marauderii	normal	300	0	200	360
+innersphere.marauderii.mad-4l	mad-4l	100	std 300	2 b	1 ecm 1 ams		2 e	2 b		3			200 - 360 std 300	2 4 0	70 / 20 20 / 30	n/a	innersphere	794	marauderii	normal	300	0	200	360
+innersphere.marauderii.mad-5a	mad-5a	100	xl 300	3 e	1 ams		2 b	3 e		3			200 - 360 xl 300	6 2 0	70 / 20 20 / 30	n/a	innersphere	793	marauderii	normal	300	0	200	360
+innersphere.marauderii.mad-6s	mad-6s	100	std 300	2 e	1 ams	2 e	1 b	2 e	1 ams	4			200 - 360 std 300	6 1 0	70 / 20 20 / 30	n/a	innersphere	795	marauderii	normal	300	0	200	360
+innersphere.mauler.knockout hero	knockout hero	90	xl 270	1 ams 1 b	2 e 2 m (20x2)		2 e 2 m (20x2)	1 b					180 - 325 xl 270	4 2 4	70 / 25 20 / 35	n/a	innersphere	556	mauler	hero	270	0	180	325
+innersphere.mauler.mal-1p	mal-1p	90	xl 270	1 ams 2 e	2 b 1 m (20)		2 b 1 m (20)	2 e					180 - 325 xl 270	4 4 2	70 / 25 20 / 35	4,645 11,603,674	innersphere	327	mauler	normal	270	0	180	325
+innersphere.mauler.mal-1r	mal-1r	90	xl 270	1 ams 1 e	2 b 2 m (20x2)		2 b 2 m (20x2)	1 e					180 - 325 xl 270	2 4 4	70 / 25 20 / 35	4,765 11,903,674	innersphere	325	mauler	normal	270	0	180	325
+innersphere.mauler.mal-2p	mal-2p	90	std 270	1 ams 3 e	1 b 1 m (20)		1 b 1 m (20)	3 e					180 - 325 std 270	6 2 2	70 / 25 20 / 35	3,535 8,834,724	innersphere	328	mauler	normal	270	0	180	325
+innersphere.mauler.mal-mx90	mal-mx90	90	std 270	1 ams 1 e	3 b 1 m (20)		3 b 1 m (20)	1 e					180 - 325 std 270	2 6 2	70 / 25 20 / 35	3,305 8,250,810	innersphere	326	mauler	normal	270	0	180	325
+innersphere.mauler.mal-mx90(c) champion	mal-mx90(c) champion	90	std 300	1 ams 1 e	3 b 1 m (20)		3 b 1 m (20)	1 e					180 - 325 std 300	2 6 2	70 / 25 20 / 35	n/a	innersphere	529	mauler	champion	300	0	180	325
+innersphere.nightstar.nsr-10p	nsr-10p	95	std 285	2 b	1 ecm 1 ams		1 e	2 b	1 e				190 - 345 std 285	2 4 0	95 / 30 25 / 30	n/a	innersphere	620	nightstar	normal	285	0	190	345
+innersphere.nightstar.nsr-9fc	nsr-9fc	95	xl 380	1 b 1 e	1 ams		2 e	1 b 1 e	1 e				190 - 400 xl 380	5 2 0	95 / 30 25 / 30	n/a	innersphere	617	nightstar	normal	380	0	190	400
+innersphere.nightstar.nsr-9j	nsr-9j	95	xl 285	1 b 2 e	1 ams		1 e	1 b 2 e	1 e				190 - 345 xl 285	6 2 0	95 / 30 25 / 30	n/a	innersphere	616	nightstar	normal	285	0	190	345
+innersphere.nightstar.nsr-9p	nsr-9p	95	xl 285	1 b 1 e	1 ams 1 b	1 m (10)	1 b	1 b 1 e	1 ams				190 - 345 xl 285	2 4 1	95 / 30 25 / 30	n/a	innersphere	619	nightstar	normal	285	0	190	345
+innersphere.nightstar.nsr-9p(c) champion	nsr-9p(c) champion	95	std 270	1 b 1 e	1 ams 1 b	1 m (10)	1 b	1 b 1 e	1 ams				190 - 345 std 270	2 4 1	95 / 30 25 / 30	n/a	innersphere	697	nightstar	champion	270	0	190	345
+innersphere.nightstar.nsr-9s	nsr-9s	95	xl 285	1 b	1 ams 1 e	1 e	1 e	1 b	1 e	4			190 - 345 xl 285	4 2 0	95 / 0 25 / 30	n/a	innersphere	618	nightstar	normal	285	0	190	345
+innersphere.nightstar.wolf phoenix hero	wolf phoenix hero	95	std 285	2 e	1 ams 2 m (20x2)		2 m (20x2)	2 e					190 - 345 std 285	4 0 4	95 / 30 25 / 30	n/a	innersphere	621	nightstar	hero	285	0	190	345
+innersphere.orion.on1-k	on1-k	75	std 300	2 e	1 ams 2 m (20, 10)		1 b	2 e					150 - 360 std 300	4 1 2	90 / 20 20 / 30	2,605 6,510,685	innersphere	99	orion	normal	300	0	150	360
+innersphere.orion.on1-k(c) champion	on1-k(c) champion	75	std 300	2 e	1 ams 2 m (20, 10)		1 b	2 e					150 - 360 std 300	4 1 2	90 / 20 20 / 30	3,260	innersphere	156	orion	champion	300	0	150	360
+innersphere.orion.on1-m	on1-m	75	xl 300	1 e 1 m (15)	1 ams 1 m (20)	1 m (6)	1 b	2 e					150 - 360 xl 300	3 1 3	90 / 20 20 / 30	4,290 10,715,293	innersphere	98	orion	normal	300	0	150	360
+innersphere.orion.on1-v	on1-v	75	std 300	1 e 1 m (15)	1 ams 1 m (20)		2 b	1 e 1 m (15)					150 - 360 std 300	2 2 3	90 / 20 20 / 30	2,655 6,628,263	innersphere	100	orion	normal	300	0	150	360
+innersphere.orion.on1-va	on1-va	75	std 300	1 e 2 m (15, 10)	1 ams		1 b	1 e 2 m (15, 10)					150 - 360 std 300	2 1 4	90 / 20 20 / 30	2,500 6,247,565	innersphere	101	orion	normal	300	0	150	360
+innersphere.orion.protector hero	protector hero	75	std 300	1 e	1 ams 1 e 2 m (20, 10)		2 b	1 e					150 - 360 std 300	3 2 2	90 / 20 20 / 30	5,625	innersphere	97	orion	hero	300	0	150	360
+innersphere.osiris.osr-1p	osr-1p	30	xl 240	2 b	1 ams 1 m (10)	2 e	1 m (10)	2 b		4			100 - 285 xl 240	2 4 2	110 / 0 25 / 30	n/a	innersphere	613	osiris	normal	240	0	100	285
+innersphere.osiris.osr-1v	osr-1v	30	xl 240	2 m (10x2)	1 ams 2 e		1 m (10)	2 e		4			100 - 285 xl 240	4 0 3	110 / 0 25 / 30	n/a	innersphere	611	osiris	normal	240	0	100	285
+innersphere.osiris.osr-1v(c) champion	osr-1v(c) champion	30	xl 245	2 m (10x2)	1 ams 2 e		1 m (10)	2 e		4			100 - 285 xl 245	4 0 3	110 / 0 25 / 30	n/a	innersphere	701	osiris	champion	245	0	100	285
+innersphere.osiris.osr-2v	osr-2v	30	xl 240	2 e	1 ams 1 b	1 e	1 b	2 e		4			100 - 285 xl 240	5 2 0	110 / 0 25 / 30	n/a	innersphere	612	osiris	normal	240	0	100	285
+innersphere.osiris.osr-3d	osr-3d	30	xl 240	1 m (10)	1 ams 2 b	2 e	1 e	2 e		4			100 - 285 xl 240	5 2 1	110 / 0 25 / 30	n/a	innersphere	609	osiris	normal	240	0	100	285
+innersphere.osiris.osr-4d	osr-4d	30	xl 240		1 ams	2 e	2 e	2 e		8			100 - 285 xl 240	6 0 0	110 / 0 25 / 30	n/a	innersphere	610	osiris	normal	240	0	100	285
+innersphere.osiris.sekhmet hero	sekhmet hero	30	xl 240	1 b 1 e	1 ams 1 e		1 e	1 b 1 e		6			100 - 285 xl 240	4 2 0	110 / 0 25 / 30	n/a	innersphere	614	osiris	hero	240	0	100	285
+innersphere.panther.katana kat hero	katana kat hero	35	xl 140	2 e	1 ams	1 m (10)		2 e		8			100 - 250 xl 140	4 0 1	110 / 40 20 / 30	n/a	innersphere	550	panther	hero	140	0	100	250
+innersphere.panther.pnt-10k	pnt-10k	35	std 140		1 ams	2 m (10, 5)	1 ams	2 e		8			100 - 250 std 140	2 0 2	110 / 40 20 / 30	1,155 2,878,413	innersphere	244	panther	normal	140	0	100	250
+innersphere.panther.pnt-10k(c) champion	pnt-10k(c) champion	35	xl 235		1 ams	2 m (10, 5)	1 ams	2 e		8			100 - 250 xl 235	2 0 2	110 / 40 20 / 30	1,445	innersphere	448	panther	champion	235	0	100	250
+innersphere.panther.pnt-10p	pnt-10p	35	xl 175		1 ams	2 m (10, 5)		2 b		4			100 - 300 xl 175	0 2 2	110 / 40 20 / 30	1,710 4,264,458	innersphere	312	panther	normal	175	0	100	300
+innersphere.panther.pnt-8z	pnt-8z	35	std 140		1 ams	2 m (10, 5)		3 e		4			100 - 250 std 140	3 0 2	110 / 40 20 / 30	905 2,255,413	innersphere	245	panther	normal	140	0	100	250
+innersphere.panther.pnt-9r	pnt-9r	35	std 140		1 ams	1 m (10)		4 e		4			100 - 250 std 140	4 0 1	110 / 40 20 / 30	985 2,451,413	innersphere	246	panther	normal	140	0	100	250
+innersphere.phoenixhawk.kuroi kiri hero	kuroi kiri hero	45	xl 270	2 b 2 e	1 ams			1 ams 2 e		6			100 - 355 xl 270	4 2 0	110 / 30 25 / 35	3,375	innersphere	419	phoenixhawk	hero	270	0	100	355
+innersphere.phoenixhawk.pxh-1	pxh-1	45	std 270	2 b 1 e	1 ams			1 b 2 e		8			100 - 355 std 270	3 3 0	110 / 30 25 / 35	1,540 3,841,553	innersphere	413	phoenixhawk	normal	270	0	100	355
+innersphere.phoenixhawk.pxh-1b	pxh-1b	45	xl 270	1 b 1 e	1 ams	1 ecm	1 e	1 b 2 e		6			100 - 355 xl 270	4 2 0	110 / 30 25 / 35	3,160 7,895,553	innersphere	414	phoenixhawk	normal	270	0	100	355
+innersphere.phoenixhawk.pxh-1k	pxh-1k	45	std 270	3 e	1 ams	2 e		3 e					100 - 355 std 270	8 0 0	110 / 30 25 / 35	1,370 3,413,077	innersphere	415	phoenixhawk	normal	270	0	100	355
+innersphere.phoenixhawk.pxh-2	pxh-2	45	std 270	3 e	1 ams	1 ecm		3 e		6			100 - 355 std 270	6 0 0	110 / 30 25 / 35	1,690 4,224,561	innersphere	416	phoenixhawk	normal	270	0	100	355
+innersphere.phoenixhawk.pxh-2(c) champion	pxh-2(c) champion	45	xl 345	3 e	1 ams	1 ecm		3 e		6			100 - 355 xl 345	6 0 0	110 / 30 25 / 35	n/a	innersphere	527	phoenixhawk	champion	345	0	100	355
+innersphere.phoenixhawk.pxh-3s	pxh-3s	45	xl 270	2 b 1 e	1 ams			1 ams 2 e		6			100 - 355 xl 270	3 2 0	110 / 30 25 / 35	2,865 7,154,013	innersphere	417	phoenixhawk	normal	270	0	100	355
+innersphere.phoenixhawk.roc hero	roc hero	45	xl 270	1 b 1 e 2 m (20x2)	1 ams			1 ams 2 e		6			100 - 355 xl 270	3 1 2	110 / 30 25 / 35	3,375	innersphere	418	phoenixhawk	hero	270	0	100	355
+innersphere.quickdraw.iv-four hero	iv-four hero	60	xl 240	1 b	1 ams 1 m (10)	2 e	1 m (10)	1 b		4			120 - 290 xl 240	2 2 2	100 / 35 25 / 40	4,500	innersphere	158	quickdraw	hero	240	0	120	290
+innersphere.quickdraw.qkd-4g	qkd-4g	60	std 300	1 e	1 ams 1 m (10)	1 m (4)	2 e	1 e		7			120 - 360 std 300	4 0 2	90 / 30 20 / 35	2,155 5,377,467	innersphere	82	quickdraw	normal	300	0	120	360
+innersphere.quickdraw.qkd-4g(c) champion	qkd-4g(c) champion	60	std 310	1 e	1 ams 1 m (10)	1 m (4)	2 e	1 e		7			120 - 360 std 310	4 0 2	90 / 30 20 / 35	2,695	innersphere	209	quickdraw	champion	310	0	120	360
+innersphere.quickdraw.qkd-4h	qkd-4h	60	std 300	1 e	1 ams 2 m (10, 5)	1 m (4)	2 e	1 e		5			120 - 360 std 300	4 0 3	90 / 30 20 / 35	2,155 5,377,467	innersphere	83	quickdraw	normal	300	0	120	360
+innersphere.quickdraw.qkd-5k	qkd-5k	60	std 300	1 e	1 ams 2 e	1 m (4)	2 e	1 e		5			120 - 360 std 300	6 0 1	90 / 30 20 / 35	2,235 5,578,867	innersphere	84	quickdraw	normal	300	0	120	360
+innersphere.raven.huginn hero	huginn hero	35	xl 280	2 b	1 ams 1 m (20)		1 m (20)	2 b		2			100 - 300 xl 280	0 4 2	120 / 0 20 / 30	2,625	innersphere	148	raven	hero	280	0	100	300
+innersphere.raven.rvn-2x	rvn-2x	35	std 175		1 ams 2 e		1 m (20)	2 e					100 - 275 std 175	4 0 1	120 / 0 20 / 30	990 2,473,658	innersphere	34	raven	normal	175	0	100	275
+innersphere.raven.rvn-3l	rvn-3l	35	xl 210	1 m (20)	1 ecm 1 ams		1 e 1 m (10)	2 e					100 - 295 xl 210	3 0 2	120 / 0 20 / 30	2,350 5,862,992	innersphere	33	raven	normal	210	0	100	295
+innersphere.raven.rvn-3l(c) champion	rvn-3l(c) champion	35	xl 295	1 m (20)	1 ecm 1 ams		1 e 1 m (10)	2 e					100 - 295 xl 295	3 0 2	120 / 0 20 / 30	2,940	innersphere	228	raven	champion	295	0	100	295
+innersphere.raven.rvn-4x	rvn-4x	35	std 175	2 b	1 ams		1 m (20)	2 e		5			100 - 275 std 175	2 2 1	120 / 0 20 / 30	1,010 2,520,666	innersphere	35	raven	normal	175	0	100	275
+innersphere.rifleman.dao breaker hero	dao breaker hero	60	std 240	1 b 2 e	1 e	1 ams	1 e	2 b 1 e					120 - 290 std 240	5 3 0	100 / 0 20 / 50	n/a	innersphere	693	rifleman	hero	240	0	120	290
+innersphere.rifleman.legend-killer hero	legend-killer hero	60	xl 240	2 b 1 e	1 e	1 ams	1 e	2 b 1 e					120 - 290 xl 240	4 4 0	100 / 0 20 / 50	4,500	innersphere	390	rifleman	hero	240	0	120	290
+innersphere.rifleman.rfl-3c	rfl-3c	60	std 240	2 b	2 e	1 ams	2 e	2 b					120 - 290 std 240	4 4 0	100 / 0 20 / 50	1,900 4,741,382	innersphere	388	rifleman	normal	240	0	120	290
+innersphere.rifleman.rfl-3n	rfl-3n	60	std 240	1 b 1 e	2 e	1 ams	2 e	1 b 1 e					120 - 290 std 240	6 2 0	100 / 0 20 / 50	1,930 4,823,866	innersphere	387	rifleman	normal	240	0	120	290
+innersphere.rifleman.rfl-5d	rfl-5d	60	xl 240	3 e		2 e	1 ams	3 e					120 - 290 xl 240	8 0 0	100 / 0 20 / 50	3,230 8,074,340	innersphere	389	rifleman	normal	240	0	120	290
+innersphere.rifleman.rfl-8d	rfl-8d	60	xl 240	1 b 2 e		1 ams		1 b 2 e		4			120 - 290 xl 240	4 2 0	100 / 0 20 / 50	n/a	innersphere	777	rifleman	normal	240	0	120	290
+innersphere.roughneck.powerhouse hero	powerhouse hero	65	xl 260	2 e	1 ams 2 m (20x2)	1 m (10)	1 b	2 b					130 - 315 xl 260	2 3 3	100 / 20 20 / 25	n/a	innersphere	682	roughneck	hero	260	0	130	315
+innersphere.roughneck.reaver hero	reaver hero	65	xl 260	1 b	1 ams 2 e	1 m (10)	2 e	1 b					130 - 315 xl 260	4 2 1	100 / 20 20 / 25	n/a	innersphere	540	roughneck	hero	260	0	130	315
+innersphere.roughneck.rgh-1a	rgh-1a	65	std 260	1 b	1 ams 2 m (20x2)		2 b	1 b	1 e				130 - 315 std 260	1 4 2	100 / 20 20 / 25	5,154,547	innersphere	535	roughneck	normal	260	0	130	315
+innersphere.roughneck.rgh-1a(c) champion	rgh-1a(c) champion	65	std 225	1 b	1 ams 2 m (20x2)		2 b	1 b	1 e				130 - 315 std 225	1 4 2	100 / 20 20 / 25	n/a	innersphere	698	roughneck	champion	225	0	130	315
+innersphere.roughneck.rgh-1b	rgh-1b	65	std 260	1 b	1 ams 2 m (20x2)		1 m (20)	2 b	1 e				130 - 315 std 260	1 3 3	100 / 20 20 / 25	5,193,047	innersphere	536	roughneck	normal	260	0	130	315
+innersphere.roughneck.rgh-1c	rgh-1c	65	std 260	1 b 1 m (20)	1 ams 2 m (20x2)		1 b	1 b 1 m (20)					130 - 315 std 260	0 3 4	100 / 20 20 / 25	5,382,615	innersphere	537	roughneck	normal	260	0	130	315
+innersphere.roughneck.rgh-2a	rgh-2a	65	xl 260	1 b	1 ams 1 m (20)	2 e	1 b	1 b	1 e				130 - 315 xl 260	3 3 1	100 / 20 20 / 25	7,858,972	innersphere	538	roughneck	normal	260	0	130	315
+innersphere.roughneck.rgh-3a	rgh-3a	65	std 260	1 e	1 ams 2 e		2 e	1 e	1 e				130 - 315 std 260	7 0 0	100 / 20 20 / 25	5,535,547	innersphere	539	roughneck	normal	260	0	130	315
+innersphere.shadowhawk.gray death hero	gray death hero	55	xl 275	2 e	1 ams 1 b		1 m (10)	2 e	1 m (5)	4			110 - 360 xl 275	4 1 2	90 / 35 30 / 30	4,125	innersphere	223	shadowhawk	hero	275	0	110	360
+innersphere.shadowhawk.shd-2d	shd-2d	55	std 275	2 e	1 ams 1 b	1 m (6)	1 m (10)	1 e	1 m (5)	3			110 - 360 std 275	3 1 3	90 / 35 30 / 30	1,780 4,441,203	innersphere	153	shadowhawk	normal	275	0	110	360
+innersphere.shadowhawk.shd-2d2	shd-2d2	55	std 275	1 e	1 ams 1 b	1 m (6)	2 m (10x2)	1 e	1 m (5)	3			110 - 360 std 275	2 1 4	90 / 35 30 / 30	1,790 4,473,235	innersphere	111	shadowhawk	normal	275	0	110	360
+innersphere.shadowhawk.shd-2h	shd-2h	55	std 275		1 ams 3 b		2 m (10x2)	1 e	1 m (5)	3			110 - 360 std 275	1 3 3	90 / 35 30 / 30	1,745 4,356,283	innersphere	110	shadowhawk	normal	275	0	110	360
+innersphere.shadowhawk.shd-2h(c) champion	shd-2h(c) champion	55	xl 265		1 ams 3 b		2 m (10x2)	1 e	1 m (5)	3			110 - 360 xl 265	1 3 3	90 / 35 30 / 30	2,185	innersphere	161	shadowhawk	champion	265	0	110	360
+innersphere.shadowhawk.shd-2k	shd-2k	55	std 275		1 ams 3 e		3 m (10x3)			5			110 - 360 std 275	3 0 3	90 / 35 30 / 30	1,760 4,394,783	innersphere	154	shadowhawk	normal	275	0	110	360
+innersphere.shadowhawk.shd-5m	shd-5m	55	xl 275		1 ams 2 b		1 m (10)	2 e	1 m (5)	5			110 - 360 xl 275	2 2 2	90 / 35 30 / 30	3,270 8,166,799	innersphere	112	shadowhawk	normal	275	0	110	360
+innersphere.spider.anansi hero	anansi hero	30	xl 240	1 b 1 e	1 ams	1 m (6)	1 ams	1 b 1 e		6			100 - 270 xl 240	2 2 1	110 / 40 20 / 30	2,250	innersphere	203	spider	hero	240	0	100	270
+innersphere.spider.sdr-5d	sdr-5d	30	std 240		1 ecm 1 ams	1 e		2 e		8			100 - 255 std 240	3 0 0	110 / 40 20 / 30	1,015 2,533,540	innersphere	52	spider	normal	240	0	100	255
+innersphere.spider.sdr-5k	sdr-5k	30	std 240	2 b	1 ams	1 e		2 b		6			100 - 285 std 240	1 4 0	110 / 40 20 / 30	985 2,452,540	innersphere	53	spider	normal	240	0	100	285
+innersphere.spider.sdr-5k(c) champion	sdr-5k(c) champion	30	xl 280	2 b	1 ams	1 e		2 b		6			100 - 285 xl 280	1 4 0	110 / 40 20 / 30	1,235	innersphere	104	spider	champion	280	0	100	285
+innersphere.spider.sdr-5v	sdr-5v	30	std 240		1 ams	2 e				12			100 - 285 std 240	2 0 0	110 / 40 20 / 30	1,040 2,598,540	innersphere	51	spider	normal	240	0	100	285
+innersphere.stalker.misery hero	misery hero	85	std 255	2 e	1 b	1 e	1 ams 1 m (6)	2 e					80 - 310 std 255	5 1 1	65 / 0 20 / 30	6,375	innersphere	75	stalker	hero	255	0	80	310
+innersphere.stalker.stk-3f	stk-3f	85	std 255	2 e 1 m (10)	1 e 1 m (6)		1 ams 1 e 1 m (6)	2 e 1 m (10)					80 - 310 std 255	6 0 4	85 / 0 20 / 30	3,050 7,618,480	innersphere	47	stalker	normal	255	0	80	310
+innersphere.stalker.stk-3f(c) champion	stk-3f(c) champion	85	std 290	2 e 1 m (10)	1 e 1 m (6)		1 ams 1 e 1 m (6)	2 e 1 m (10)					80 - 310 std 290	6 0 4	85 / 0 20 / 30	3,815	innersphere	136	stalker	champion	290	0	80	310
+innersphere.stalker.stk-3fb	stk-3fb	85	std 255	2 e 1 m (20)	1 e	1 ecm	1 ams 1 e	2 e 1 m (20)					80 - 310 std 255	6 0 2	85 / 0 20 / 30	n/a	innersphere	515	stalker	normal	255	0	80	310
+innersphere.stalker.stk-3fb(l) special	stk-3fb(l) special	85	std 255	2 e 1 m (20)	1 e	1 ecm	1 ams 1 e	2 e 1 m (20)					80 - 310 std 255	6 0 2	85 / 0 20 / 30	n/a	innersphere	465	stalker	special	255	0	80	310
+innersphere.stalker.stk-3h	stk-3h	85	std 255	2 e 1 m (20)	1 m (6)		1 ams 1 m (6)	2 e 1 m (20)					80 - 310 std 255	4 0 4	60 / 0 20 / 30	3,130 7,818,480	innersphere	48	stalker	normal	255	0	80	310
+innersphere.stalker.stk-4n	stk-4n	85	std 255	2 e	1 e 1 m (6)		1 ams 1 e 1 m (6)	2 e 1 m (10)					80 - 310 std 255	6 0 3	60 / 0 20 / 30	2,965 7,412,420	innersphere	49	stalker	normal	255	0	80	310
+innersphere.stalker.stk-5m	stk-5m	85	std 255	2 e 1 m (10)	2 m (6x2)	1 e	1 ams 1 m (6)	2 e 1 m (10)					80 - 310 std 255	5 0 5	60 / 0 20 / 30	3,230 8,064,616	innersphere	46	stalker	normal	255	0	80	310
+innersphere.stalker.stk-5s	stk-5s	85	xl 255	2 e 1 m (10)	1 ams 1 e 1 m (6)		1 ams 1 e 1 m (6)	2 e 1 m (10)					80 - 310 xl 255	6 0 4	60 / 0 20 / 30	4,370 10,921,480	innersphere	50	stalker	normal	255	0	80	310
+innersphere.thanatos.hangover hero	hangover hero	75	xl 375	2 e	1 ecm 1 e	1 e	1 ams 1 e	5 m (20x3, 10, 5)		5			150 - 400 xl 375	5 0 5	105 / 20 20 / 30	n/a	innersphere	642	thanatos	hero	375	0	150	400
+innersphere.thanatos.tns-4p	tns-4p	75	xl 300	2 b	1 ecm 2 e		1 ams 2 e	1 m (20)		5			150 - 360 xl 300	4 2 1	110 / 10 20 / 30	n/a	innersphere	638	thanatos	normal	300	0	150	360
+innersphere.thanatos.tns-4s	tns-4s	75	xl 375	2 e	1 ecm 1 e		1 ams 1 e	2 m (20x2)		5			150 - 400 xl 375	4 0 2	105 / 20 20 / 30	n/a	innersphere	637	thanatos	normal	375	0	150	400
+innersphere.thanatos.tns-5p	tns-5p	75	std 300	1 b 1 m (20)	1 ecm 1 m (20)		1 ams 1 m (20)	3 e		5			150 - 360 std 300	3 1 3	110 / 20 20 / 30	n/a	innersphere	639	thanatos	normal	300	0	150	360
+innersphere.thanatos.tns-5s	tns-5s	75	xl 300	2 e	1 ecm 1 b		1 ams 1 b	2 m (20x2)		5			150 - 360 xl 300	2 2 2	110 / 20 20 / 30	n/a	innersphere	640	thanatos	normal	300	0	150	360
+innersphere.thanatos.tns-5t	tns-5t	75	std 300	2 m (20x2)	1 ecm 1 m (20)		1 ams 1 m (20)	2 m (20x2)		5			150 - 360 std 300	0 0 6	110 / 20 20 / 30	n/a	innersphere	641	thanatos	normal	300	0	150	360
+innersphere.thunderbolt.tdr-5s	tdr-5s	65	std 260	2 b	3 e		1 ams 2 m (20, 10)	1 e					130 - 315 std 260	4 2 2	90 / 20 20 / 30	2,100 5,241,175	innersphere	114	thunderbolt	normal	260	0	130	315
+innersphere.thunderbolt.tdr-5ss	tdr-5ss	65	std 260		3 e 1 m (10)		1 ams 2 e	2 e					130 - 315 std 260	7 0 1	90 / 20 20 / 30	2,080 5,188,055	innersphere	115	thunderbolt	normal	260	0	130	315
+innersphere.thunderbolt.tdr-9s	tdr-9s	65	std 260	2 b	1 ams 3 e 2 m (10)		1 ams 2 e	1 e					130 - 315 std 260	6 2 2	80 / 20 20 / 30	2,390 5,964,933	innersphere	155	thunderbolt	normal	260	0	130	315
+innersphere.thunderbolt.tdr-9se	tdr-9se	65	std 260		3 e 2 m (10x2)		1 ams	2 e		4			130 - 315 std 260	5 0 2	90 / 20 20 / 30	2,335 5,835,993	innersphere	116	thunderbolt	normal	260	0	130	315
+innersphere.thunderbolt.tdr-9se(c) champion	tdr-9se(c) champion	65	std 290		3 e 2 m (10x2)		1 ams	2 e		4			130 - 315 std 290	5 0 2	90 / 20 20 / 30	2,865	innersphere	217	thunderbolt	champion	290	0	130	315
+innersphere.thunderbolt.top dog hero	top dog hero	65	std 260		4 e		1 ams 4 e	1 e					130 - 315 std 260	9 0 0	80 / 20 20 / 30	4,875	innersphere	289	thunderbolt	hero	260	0	130	315
+innersphere.trebuchet.loup de guerre hero	loup de guerre hero	50	xl 325	1 e 1 m (20)	1 m (20)		1 ams 1 m (20)	1 e 1 m (20)		5			100 - 325 xl 325	2 0 4	115 / 35 35 / 40	3,750	innersphere	157	trebuchet	hero	325	0	100	325
+innersphere.trebuchet.tbt-3c	tbt-3c	50	xl 300	1 e 1 m (20)		1 e	1 ams 1 m (20)	2 e					100 - 390 xl 300	4 0 2	115 / 35 35 / 40	3,405 8,503,816	innersphere	60	trebuchet	normal	300	0	100	390
+innersphere.trebuchet.tbt-5j	tbt-5j	50	std 250	2 e			1 ams 1 m (20)	3 e		5			100 - 325 std 250	5 0 1	115 / 35 35 / 40	1,675 4,186,745	innersphere	61	trebuchet	normal	250	0	100	325
+innersphere.trebuchet.tbt-5n	tbt-5n	50	std 250	1 e 1 m (20)			1 ams 1 m (20)	3 e					100 - 325 std 250	4 0 2	115 / 35 35 / 40	1,665 4,161,797	innersphere	62	trebuchet	normal	250	0	100	325
+innersphere.trebuchet.tbt-7k	tbt-7k	50	std 250		2 b		1 ams 2 e	2 m (20, 15)					100 - 325 std 250	2 2 2	115 / 35 35 / 40	1,550 3,867,177	innersphere	63	trebuchet	normal	250	0	100	325
+innersphere.trebuchet.tbt-7m	tbt-7m	50	xl 250	1 e 1 m (20)	1 m (20)		1 ams 1 m (20)	2 e		5			100 - 325 xl 250	3 0 3	115 / 35 35 / 40	3,050 7,623,797	innersphere	59	trebuchet	normal	250	0	100	325
+innersphere.trebuchet.tbt-7m(c) champion	tbt-7m(c) champion	50	xl 255	1 e 1 m (20)	1 m (20)		1 ams 1 m (20)	2 e		5			100 - 325 xl 255	3 0 3	115 / 35 35 / 40	3,815	innersphere	215	trebuchet	champion	255	0	100	325
+innersphere.urbanmech.k-9 hero	k-9 hero	30	std 60	3 e		2 e	1 ams	1 b		4			60 - 180 std 60	5 1 0	360 / 0 25 / 30	n/a	innersphere	548	urbanmech	hero	60	0	60	180
+innersphere.urbanmech.street cleaner hero	street cleaner hero	30	std 60	3 e			1 ams	2 b		6			60 - 210 std 60	3 2 0	360 / 0 25 / 30	n/a	innersphere	690	urbanmech	hero	60	0	60	210
+innersphere.urbanmech.um-r60	um-r60	30	std 60	2 e			1 ams	4 b		4			60 - 180 std 60	2 4 0	360 / 0 25 / 30	625 1,560,113	innersphere	276	urbanmech	normal	60	0	60	180
+innersphere.urbanmech.um-r60l	um-r60l	30	std 60	4 e			1 ams	2 b		4			60 - 180 std 60	4 2 0	360 / 0 25 / 30	700 1,744,084	innersphere	277	urbanmech	normal	60	0	60	180
+innersphere.urbanmech.um-r63	um-r63	30	std 60	1 e	2 e		1 ams	3 b		4			60 - 180 std 60	3 3 0	360 / 0 25 / 30	805 2,006,108	innersphere	275	urbanmech	normal	60	0	60	180
+innersphere.urbanmech.um-r68	um-r68	30	std 60	2 e	1 e		1 ams	2 m (20x2)		4			60 - 180 std 60	3 0 2	360 / 0 25 / 30	n/a	innersphere	669	urbanmech	normal	60	0	60	180
+innersphere.urbanmech.um-r68(l) special	um-r68(l) special	30	std 60	2 e	1 e		1 ams	2 m (20x2)		4			60 - 180 std 60	3 0 2	360 / 0 25 / 30	n/a	innersphere	643	urbanmech	special	60	0	60	180
+innersphere.uziel.belial hero	belial hero	50	xl 300	2 e	1 m (20)		1 ams 1 m (20)	2 e		6			100 - 390 xl 300	4 0 2	125 / 40 35 / 35	n/a	innersphere	564	uziel	hero	300	0	100	390
+innersphere.uziel.uzl-2s	uzl-2s	50	xl 300	2 e	1 b	1 m (10)	1 ams 1 b	1 e		6			100 - 390 xl 300	3 2 1	125 / 40 35 / 35	n/a	innersphere	560	uziel	normal	300	0	100	390
+innersphere.uziel.uzl-3p	uzl-3p	50	xl 300	1 b	1 e	1 m (10)	1 ams 1 e	2 b		6			100 - 390 xl 300	2 3 1	125 / 40 35 / 35	n/a	innersphere	561	uziel	normal	300	0	100	390
+innersphere.uziel.uzl-3p(c) champion	uzl-3p(c) champion	50	std 250	1 b	1 e	1 m (10)	1 ams 1 e	2 b		6			100 - 390 std 250	2 3 1	125 / 40 35 / 35	n/a	innersphere	702	uziel	champion	250	0	100	390
+innersphere.uziel.uzl-3s	uzl-3s	50	xl 300	1 e	1 e	1 m (10)	1 ams 1 e	1 b 1 e		6			100 - 390 xl 300	4 1 1	125 / 40 35 / 35	n/a	innersphere	559	uziel	normal	300	0	100	390
+innersphere.uziel.uzl-5p	uzl-5p	50	xl 300	1 e	1 m (20)	1 e	1 ams 1 m (20)	2 b		6			100 - 390 xl 300	2 2 2	125 / 40 35 / 35	n/a	innersphere	562	uziel	normal	300	0	100	390
+innersphere.uziel.uzl-6p	uzl-6p	50	xl 250	2 e	1 e		1 ams 1 e	2 e		6			100 - 325 xl 250	6 0 0	125 / 40 35 / 35	n/a	innersphere	563	uziel	normal	250	0	100	325
+innersphere.victor.dragon slayer hero	dragon slayer hero	80	xl 330	1 e	2 m (10, 5)		1 ams 2 e	2 b		4			160 - 400 xl 330	3 2 2	90 / 20 20 / 30	6,000	innersphere	87	victor	hero	330	0	160	400
+innersphere.victor.vtr-9a1	vtr-9a1	80	std 320	3 e	1 b 1 m (20)		1 ams 1 b	1 b		4			160 - 385 std 320	3 3 1	90 / 10 20 / 30	n/a	innersphere	671	victor	normal	320	0	160	385
+innersphere.victor.vtr-9a1(l) special	vtr-9a1(l) special	80	std 320	3 e	1 b 1 m (20)		1 ams 1 b	1 b		4			160 - 385 std 320	3 3 1	90 / 10 20 / 30	n/a	innersphere	645	victor	special	320	0	160	385
+innersphere.victor.vtr-9b	vtr-9b	80	std 320	2 e	2 m (10, 5)		1 ams	3 b		4			160 - 385 std 320	2 3 2	90 / 10 20 / 30	2,965 7,410,423	innersphere	89	victor	normal	320	0	160	385
+innersphere.victor.vtr-9k	vtr-9k	80	std 320	3 e	2 m (10, 5)		1 ams	1 b		6			160 - 385 std 320	3 1 2	90 / 20 20 / 30	3,085 7,710,430	innersphere	88	victor	normal	320	0	160	385
+innersphere.victor.vtr-9s	vtr-9s	80	std 320	2 e	3 m (10, 5, 2)		1 ams	2 b		4			160 - 385 std 320	2 2 3	90 / 10 20 / 30	2,980 7,440,407	innersphere	90	victor	normal	320	0	160	385
+innersphere.victor.vtr-9s(c) champion	vtr-9s(c) champion	80	xl 340	2 e	3 m (10, 5, 2)		1 ams	2 b		4			160 - 385 xl 340	2 2 3	90 / 10 20 / 30	3,725	innersphere	147	victor	champion	340	0	160	385
+innersphere.vindicator.st. ives&#039; blues hero	st. ives&#039; blues hero	45	std 180	1 e	2 m (20, 10)		1 ams	1 e	1 e	5			100 - 250 std 180	3 0 2	125 / 35 30 / 30	3,375	innersphere	205	vindicator	hero	180	0	100	250
+innersphere.vindicator.vnd-1aa	vnd-1aa	45	std 225	1 e	1 ams 1 m (20)		1 ams	2 e	1 e	6			100 - 295 std 225	4 0 1	125 / 35 30 / 30	1,480 3,693,024	innersphere	207	vindicator	normal	225	0	100	295
+innersphere.vindicator.vnd-1aa(c) champion	vnd-1aa(c) champion	45	xl 295	1 e	1 ams 1 m (20)		1 ams	2 e	1 e	6			100 - 295 xl 295	4 0 1	125 / 35 30 / 30	1,850	innersphere	398	vindicator	champion	295	0	100	295
+innersphere.vindicator.vnd-1r	vnd-1r	45	std 180	2 e	1 m (20)		1 ams	2 e	1 e	4			100 - 235 std 180	5 0 1	125 / 35 30 / 30	1,360 3,394,029	innersphere	206	vindicator	normal	180	0	100	235
+innersphere.vindicator.vnd-1x	vnd-1x	45	std 180	3 b	1 m (20)		1 ams	1 e	1 e	4			100 - 235 std 180	2 3 1	125 / 35 30 / 30	1,360 3,388,529	innersphere	208	vindicator	normal	180	0	100	235
+innersphere.vulcan.bloodlust hero	bloodlust hero	40	xl 240	2 b	1 m (20)	1 ams 1 m (10)	1 m (20)	1 b 1 e	1 m (5)	6			100 - 315 xl 240	1 3 4	130 / 45 30 / 45	n/a	innersphere	731	vulcan	hero	240	0	100	315
+innersphere.vulcan.vl-2t	vl-2t	40	std 240	1 b	2 e	1 ams	2 b	1 e		6			100 - 315 std 240	3 3 0	130 / 45 30 / 45	n/a	innersphere	726	vulcan	normal	240	0	100	315
+innersphere.vulcan.vl-5t	vl-5t	40	std 240	1 b	1 e	1 ams	3 e	1 e		6			100 - 315 std 240	5 1 0	130 / 45 30 / 45	n/a	innersphere	727	vulcan	normal	240	0	100	315
+innersphere.vulcan.vt-5m	vt-5m	40	std 240	2 b	1 e	1 ams	2 e	1 e		6			100 - 315 std 240	4 2 0	130 / 45 30 / 45	n/a	innersphere	728	vulcan	normal	240	0	100	315
+innersphere.vulcan.vt-5s	vt-5s	40	xl 240	1 b	2 e	1 ams	2 b	1 e		6			100 - 315 xl 240	3 3 0	130 / 45 30 / 45	n/a	innersphere	729	vulcan	normal	240	0	100	315
+innersphere.vulcan.vt-6m	vt-6m	40	xl 240	2 b	1 e	1 ams	2 b	1 e		6			100 - 315 xl 240	2 4 0	130 / 45 30 / 45	n/a	innersphere	730	vulcan	normal	240	0	100	315
+innersphere.warhammer.black widow hero	black widow hero	70	xl 280	1 e	2 b 1 e	1 ams	2 b 1 e 1 m (20)	1 e					140 - 340 xl 280	4 4 1	110 / 25 25 / 25	5,250	innersphere	385	warhammer	hero	280	0	140	340
+innersphere.warhammer.whm-4l	whm-4l	70	xl 280	2 e	1 ams 1 e	1 ecm	1 m (20)	2 e	1 e				140 - 340 xl 280	6 0 1	110 / 25 25 / 25	n/a	innersphere	778	warhammer	normal	280	0	140	340
+innersphere.warhammer.whm-6d	whm-6d	70	std 280	2 e	3 e	1 ams	2 e	2 e					140 - 340 std 280	9 0 0	110 / 25 25 / 25	2,350 5,871,629	innersphere	383	warhammer	normal	280	0	140	340
+innersphere.warhammer.whm-6d(c) champion	whm-6d(c) champion	70	std 300	2 e	3 e	1 ams	2 e	2 e					140 - 340 std 300	9 0 0	110 / 25 25 / 25	n/a	innersphere	528	warhammer	champion	300	0	140	340
+innersphere.warhammer.whm-6r	whm-6r	70	std 280	1 e	1 b 2 e	1 ams	1 b 2 e 1 m (20)	1 e					140 - 340 std 280	6 2 1	110 / 25 25 / 25	2,415 6,036,947	innersphere	382	warhammer	normal	280	0	140	340
+innersphere.warhammer.whm-7s	whm-7s	70	std 280	1 e	2 e 1 m (20)	1 ams	2 e 2 m (20x2)	1 e					140 - 340 std 280	6 0 3	110 / 25 25 / 25	2,595 6,485,947	innersphere	384	warhammer	normal	280	0	140	340
+innersphere.wolfhound.grinner hero	grinner hero	35	std 210		1 ams 1 e	2 e	1 ecm 1 e	1 e					100 - 295 std 210	5 0 0	110 / 40 25 / 25	n/a	innersphere	549	wolfhound	hero	210	0	100	295
+innersphere.wolfhound.wlf-1	wlf-1	35	std 210		1 ams 1 e	2 e	1 e	1 e					100 - 315 std 210	5 0 0	110 / 40 25 / 25	1,070 2,670,748	innersphere	336	wolfhound	normal	210	0	100	315
+innersphere.wolfhound.wlf-1(c) champion	wlf-1(c) champion	35	xl 295		1 ams 1 e	2 e	1 e	1 e					100 - 315 xl 295	5 0 0	110 / 40 25 / 25	n/a	innersphere	526	wolfhound	champion	295	0	100	315
+innersphere.wolfhound.wlf-1a	wlf-1a	35	std 210		1 ams 2 e	1 e	2 e	1 e					100 - 295 std 210	6 0 0	110 / 40 25 / 25	1,040 2,594,748	innersphere	337	wolfhound	normal	210	0	100	295
+innersphere.wolfhound.wlf-1b	wlf-1b	35	std 210		1 ams 1 e	2 e	1 ams 1 e	1 e					100 - 295 std 210	5 0 0	110 / 40 25 / 25	1,070 2,670,748	innersphere	338	wolfhound	normal	210	0	100	295
+innersphere.wolfhound.wlf-2	wlf-2	35	std 210		1 ams 1 e	2 e	1 e	2 e					100 - 295 std 210	6 0 0	110 / 40 25 / 25	1,155 2,886,748	innersphere	335	wolfhound	normal	210	0	100	295
+innersphere.wolverine.quarantine hero	quarantine hero	55	xl 275				1 ams 2 m (10x2)	1 b 3 e		7			110 - 360 xl 275	3 1 2	125 / 30 30 / 35	4,125	innersphere	316	wolverine	hero	275	0	110	360
+innersphere.wolverine.wvr-6k	wvr-6k	55	std 275		1 m (10)		1 ams	4 e	1 e				110 - 375 std 275	5 0 1	125 / 30 30 / 35	1,715 4,281,255	innersphere	131	wolverine	normal	275	0	110	375
+innersphere.wolverine.wvr-6k(c) champion	wvr-6k(c) champion	55	xl 340		1 m (10)		1 ams	4 e	1 e				110 - 375 xl 340	5 0 1	125 / 30 30 / 35	2,145	innersphere	273	wolverine	champion	340	0	110	375
+innersphere.wolverine.wvr-6r	wvr-6r	55	std 275		3 m (10x3)		1 ams	2 b	1 e	7			110 - 360 std 275	1 2 3	110 / 40 25 / 25	1,825 4,558,223	innersphere	130	wolverine	normal	275	0	110	360
+innersphere.wolverine.wvr-7d	wvr-7d	55	xl 275		2 m (10x2)		1 ams	2 b	1 e	5			110 - 360 xl 275	1 2 2	125 / 30 30 / 35	3,170 7,916,335	innersphere	429	wolverine	normal	275	0	110	360
+innersphere.wolverine.wvr-7d(l) special	wvr-7d(l) special	55	xl 275		2 m (10x2)		1 ams	2 b	1 e	5			110 - 360 xl 275	1 2 2	125 / 30 30 / 35	n/a	innersphere	340	wolverine	special	275	0	110	360
+innersphere.wolverine.wvr-7k	wvr-7k	55	xl 275		2 m (10x2)		1 ams 1 m (10)	2 e	1 e	7			110 - 360 xl 275	3 0 3	125 / 30 30 / 35	3,005 7,506,381	innersphere	132	wolverine	normal	275	0	110	360
+innersphere.zeus.skokomish hero	skokomish hero	80	xl 320	1 b	1 e 2 m (20x2)	1 e	1 ams	2 m (20, 15)					160 - 400 xl 320	2 1 4	90 / 20 20 / 30	n/a	innersphere	555	zeus	hero	320	0	160	400
+innersphere.zeus.zeu-5s	zeu-5s	80	std 320	1 b	2 e	1 e	1 ams	3 m (20, 15x2)					160 - 390 std 320	3 1 3	90 / 20 20 / 30	2,985 7,461,534	innersphere	315	zeus	normal	320	0	160	390
+innersphere.zeus.zeu-6s	zeu-6s	80	std 320	2 b	3 e	1 e	1 ams	1 m (20)					160 - 390 std 320	4 2 1	90 / 20 20 / 30	2,780 6,947,974	innersphere	257	zeus	normal	320	0	160	390
+innersphere.zeus.zeu-6t	zeu-6t	80	std 320	1 e	2 e	1 e	1 ams	3 m (20, 15x2)					160 - 390 std 320	4 0 3	90 / 20 20 / 30	2,845 7,101,474	innersphere	258	zeus	normal	320	0	160	390
+innersphere.zeus.zeu-6t(c) champion	zeu-6t(c) champion	80	xl 380	1 e	2 e	1 e	1 ams	3 m (20, 15x2)					160 - 390 xl 380	4 0 3	90 / 20 20 / 30	3,560	innersphere	451	zeus	champion	380	0	160	390
+innersphere.zeus.zeu-9s	zeu-9s	80	std 320	3 e	2 e	1 e	1 ams	1 m (20)					160 - 390 std 320	6 0 1	90 / 20 20 / 30	3,135 7,834,142	innersphere	259	zeus	normal	320	0	160	390
+innersphere.zeus.zeu-9s2	zeu-9s2	80	xl 320	2 b	2 e		1 ams	3 m (20, 15x2)					160 - 390 xl 320	2 2 3	90 / 20 20 / 30	4,515 11,278,322	innersphere	430	zeus	normal	320	0	160	390
+innersphere.zeus.zeu-9s2(l) special	zeu-9s2(l) special	80	xl 320	2 b	2 e		1 ams	3 m (20, 15x2)					160 - 390 xl 320	2 2 3	90 / 20 20 / 30	n/a	innersphere	341	zeus	special	320	0	160	390

@@ -18,8 +18,7 @@ ntg-h ecm
 on1-iic-a
 qkd-iv4 strongest
 rfl-3n
-whm-4l ecm
-whm-iic-2 lrm
+whm-4l ecm light-engine
 
 ann-2a
 ann-1x
@@ -35,8 +34,10 @@ hgn-iic-a 3erppc-noghost
 kgc-000
 mcii-b
 mad-4l stealth-armor
+mad-4hp missle
 mad-iic 9mpulse
 stk-3fb ecm
+whm-iic-2 lrm
 whm-iic-a dakka
 
 
