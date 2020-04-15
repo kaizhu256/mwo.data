@@ -17,10 +17,10 @@ clan.jenneriic.jr7-iic(c) champion	jr7-iic(c) champion	35	xl 295	2 m (12x2)	1 am
 clan.jenneriic.jr7-iic-2	jr7-iic-2	35	xl 315	2 e	1 ams	1 m (15)		2 e		10			100 - 315 xl 315	4 0 1	100 / 0 20 / 30	2,770 6,918,153	clan	363	jenneriic	normal	315	0	100	315
 clan.jenneriic.jr7-iic-3	jr7-iic-3	35	xl 315	2 e	1 ams	2 m (15, 10)		2 e		7			100 - 315 xl 315	4 0 2	100 / 0 20 / 30	2,665 6,660,093	clan	364	jenneriic	normal	315	0	100	315
 clan.jenneriic.jr7-iic-a	jr7-iic-a	35	xl 315	3 e	1 ams			3 e		7			100 - 315 xl 315	6 0 0	100 / 0 20 / 30	2,610 6,524,093	clan	365	jenneriic	normal	315	0	100	315
-clan.marauderiic.mad-iic	mad-iic	85	std 340	2 e	1 ams 2 e	2 e	1 e	2 e					170 - 400 std 340	9 0 0	70 / 20 20 / 30	n/a	clan	493	marauderiic	normal	340	0	170	400
-clan.marauderiic.mad-iic-2	mad-iic-2	85	std 340	3 e	1 ams	2 e		2 e		4			170 - 400 std 340	7 0 0	70 / 20 20 / 30	n/a	clan	780	marauderiic	normal	340	0	170	400
-clan.marauderiic.mad-iic-8	mad-iic-8	85	std 340	2 e	1 ams 2 e 1 m (20)	1 e	1 e	1 e					170 - 400 std 340	7 0 1	70 / 20 20 / 30	n/a	clan	494	marauderiic	normal	340	0	170	400
-clan.marauderiic.mad-iic-a	mad-iic-a	85	std 340	2 e	1 ams		3 b	2 e					170 - 400 std 340	4 3 0	70 / 20 20 / 30	n/a	clan	495	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic	mad-iic	85	std 340	2 e	1 ams 2 e	2 e	1 e	2 e					170 - 400 std 340	9 0 0	70 / 20 20 / 30	4,458,998	clan	493	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-2	mad-iic-2	85	std 340	3 e	1 ams	2 e		2 e		4			170 - 400 std 340	7 0 0	70 / 20 20 / 30	4,360,278	clan	780	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-8	mad-iic-8	85	std 340	2 e	1 ams 2 e 1 m (20)	1 e	1 e	1 e					170 - 400 std 340	7 0 1	70 / 20 20 / 30	4,371,513	clan	494	marauderiic	normal	340	0	170	400
+clan.marauderiic.mad-iic-a	mad-iic-a	85	std 340	2 e	1 ams		3 b	2 e					170 - 400 std 340	4 3 0	70 / 20 20 / 30	4,371,513	clan	495	marauderiic	normal	340	0	170	400
 clan.marauderiic.mad-iic-b	mad-iic-b	85	xl 340	2 e	1 ams 2 m (20x2)		1 e	2 e		4			170 - 400 xl 340	5 0 2	70 / 20 20 / 30	n/a	clan	496	marauderiic	normal	340	0	170	400
 clan.marauderiic.mad-iic-c	mad-iic-c	85	xl 340	3 e	1 ams		2 b	2 e		4			170 - 400 xl 340	5 2 0	70 / 20 20 / 30	n/a	clan	497	marauderiic	normal	340	0	170	400
 clan.marauderiic.mad-iic-d	mad-iic-d	85	xl 255	1 b 1 m (20)	1 ams	1 ecm	1 e	1 b 1 m (20)	1 e				170 - 340 xl 255	2 2 2	70 / 20 20 / 30	n/a	clan	498	marauderiic	normal	255	0	170	340
