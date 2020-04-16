@@ -1,11 +1,86 @@
+booster
+25000 / 99.95 = 250.1 mc/usd
+12000 / 49.95 = 240.2 mc/usd
+ 6500 / 29.95 = 217.0 mc/usd
+ 3000 / 14.95 = 200.7 mc/usd
+ 1250 /  6.95 = 179.9 mc/usd
+
+pack - solaris 7
+as7-kr  7500 xl300
+//!! grf-ar  4125 st275
+rfl-db  4500 st240
+//!! um-sc   2250 st60
+mdd-rv  5625 xl300
+fs9-fs  2625 st210
+//!! bnc-sr  7125 xl380
+33750 / 84,375,000 - 2,812,500 cbill/usd
+(33750 + 3000) / (30 + 14.95) = 817.575083 mc/usd
+
+pack - bas std
+bas-prime 6805
+bas-a   7065
+bas-b   6955
+20825 / 52,062,500 - 2,603,125 cbill/usd
+(20825 + 6500) / (20 + 29.95) = 547.047047 mc/usd
+(20825 + 3000 + 1250) / (20 + 14.95 + 6.95) = 598.448687 mc/usd
+
+
+//!! xl300 on1-iic-b on1-iic-c
+//!! xl340 mad-iic-b mad-iic-c
+
 https://www.youtube.com/watch?v=3U9dyOWfC1g
 
-hbk-4g ac
-hbk-4p laser
-hbp-4sp mrm
-hbk-iic dakka
-hbk-iic-a laser
-hbk-iic-b missle
+cxl 260 rfl-iic-a 4488
+cxl 270 hgn-iic-c 6328
+
+light
+//!! adr - bad
+ach-prime       3,868,728
+com-2d            890,711
+//!! cou - bad
+fs9-a - las     1,311,179
+fle-20 - stl    1,111,409
+inc-4 - las     2,968,348
+
+//!! light
+ 1. jr7-f - las     1,446,533
+ 2. jr7-iic - brawl 3,458,046
+
+//!! medium
+ //!! 3. hbk-4g dakka    1,847,245
+ //!! 4. hbk-4p laser    1,797,242
+ //!! 5. hbp-4sp mrm     1,816,242
+
+//!! heavy
+    $20 mad-3r, mad-5d, mad-5m
+ //!! 6. mad-3r 3rac2    3,295,321
+ //!! 7. mad-5d mrm      5,457,591
+ //!! 8. mad-5m 2rac     5,388,069
+ 9. on1-v  mini-atl 3,314,131
+10. on1-va mini-atl 3,123,782
+    $20 rfl-3n, rfl-3c, rfl-5d
+//!! 12. rfl-3n          2,411,933
+    $20 rfl-iic, rfl-iic-2, rfl-iic-3
+//!! 13. rfl-iic 4llp    3,149,528
+    $20 whm-6r, whm-6d, whm-7s
+//!! 14. whm-6r 2g,6ml   3,018,473
+//!! 15. whm-7s mrm      3,242,793
+//!! whm-4l ecm,mrm  5,384,001
+
+//!! assault
+//!! hgn bad
+    $20 mad-iic, mad-iic-a, mad-iic-b
+//!! 17. mad-iic l,mpl   4,458,998
+    $20 whm-iic, whm-iic-2, whm-iic-3
+?19. whm-iic-a dakka 4,394,134
+
+//!! sell
+jr7-iic-3
+//!! mad-iic-d
+//!! on1-iic
+//!! rfl-8d
+
+
 vgl-3 strongest - atm
 vgl-a strongest - atm
 vl-5t recommend
