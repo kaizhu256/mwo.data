@@ -1,0 +1,22 @@
+<Loadout MechID="802">
+ <Upgrades>
+  <Armor ItemID="2815"/>
+  <Structure ItemID="3102"/>
+  <Artemis Equipped="0"/>
+  <HeatSinks ItemID="3005"/>
+ </Upgrades>
+ <ActuatorState RightActuatorState="EActuatorState_HandsAndArms" LeftActuatorState="EActuatorState_HandsAndArms"/>
+ <ComponentList>
+  <component name="centre_torso" Armor="61"/>
+  <component name="right_torso" Armor="40"/>
+  <component name="left_torso" Armor="40"/>
+  <component name="left_arm" Armor="40"/>
+  <component name="right_arm" Armor="40"/>
+  <component name="left_leg" Armor="54"/>
+  <component name="right_leg" Armor="54"/>
+  <component name="head" Armor="18"/>
+  <component name="centre_torso_rear" Armor="20"/>
+  <component name="left_torso_rear" Armor="18"/>
+  <component name="right_torso_rear" Armor="18"/>
+ </ComponentList>
+</Loadout>

@@ -5,7 +5,7 @@
   <Artemis Equipped="0"/>
   <HeatSinks ItemID="3005"/>
  </Upgrades>
- <ActuatorState RightActuatorState="EActuatorState_None" LeftActuatorState="EActuatorState_None"/>
+ <ActuatorState RightActuatorState="EActuatorState_HandsAndArms" LeftActuatorState="EActuatorState_HandsAndArms"/>
  <ComponentList>
   <component name="centre_torso" Armor="61">
    <Module ItemID="3266"/>
