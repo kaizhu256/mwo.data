@@ -1,6 +1,6 @@
 cxl 200
 cxl 255
-//!! cxl 260 -> 265
+cxl 265
 cxl 270
 cxl 300
 cxl 315
@@ -18,7 +18,7 @@ cxl 400
  st 300
  st 340
 
- xl 240
+ xl 245
  xl 280
  xl 300
  xl 380
