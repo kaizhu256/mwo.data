@@ -1,22 +1,22 @@
 cxl 200
 cxl 255
-cxl 260
+//!! cxl 260 -> 265
 cxl 270
 cxl 300
 cxl 315
 cxl 340
 cxl 400
 
-lgt 300
+ lx 300
 
-std  60
-std 195
-std 210
-std 240
-std 260
-std 270
-std 300
-std 340
+ st  60
+ st 195
+ st 210
+ st 240
+ st 260
+ st 270
+ st 300
+ st 340
 
  xl 240
  xl 280
