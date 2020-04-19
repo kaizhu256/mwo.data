@@ -25,6 +25,7 @@ cxl 400
 
 
 type	ton	type	ton	type	ton	heatsink
+st-060	-2.5	xl-060	--	lx-060	--	2
 st-100	1	xl-100	0.5	lx-100	0.5	4
 st-105	2.5	xl-105	--	lx-105	--	4
 st-110	2.5	xl-110	--	lx-110	--	4
